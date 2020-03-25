@@ -1,1 +1,2 @@
-# The Future home of Tanzu Tuesdays
+![Tanzu Tuesdays](./tanzu-tuesdays.png)
+
