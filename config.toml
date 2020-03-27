@@ -1,0 +1,46 @@
+baseURL = "https://vmware-tanzu.github.io"
+languageCode = "en-us"
+title = "Tanzu Tuesdays - Live Every Tuesday at 1pm PT"
+theme = "castanet"
+
+# see https://github.com/mattstratton/castanet/blob/master/REFERENCE.md
+[params]
+mainSections = ["episode"]
+site_theme = "grey"
+site_layout = "grid"
+# site_layout = "row"
+enable_jumbo = "true"
+copyright_notice = "Copyright 2020 [VMware](https://www.vmware.com)"
+description = "Tanzu Tuesdays streams Live on Twitch every Tuesday at 1pm PT."
+
+  [params.social]
+  github = "vmware-tanzu"
+  youtube = "makejarnotwar"
+
+  [params.authors]
+    [params.authors.paulczar]
+      name	= "Paul Czarkowski"
+      bio   = "Paul is great"
+      thumbnail = "img/hosts/paulczar.jpg"
+    [params.authors.paulczar.social]
+      twitter = "pczarkowski"
+
+  [params.links]
+    [params.links.vmware]
+      name = "VMware"
+      url = "https://vmware.com"
+
+#[[Menu.Main]]
+#    name = "About"
+#    identifier = "about"
+#    url = "about"
+
+#[[Menu.Main]]
+#    name = "Contact"
+#    identifier = "contact"
+#    url = "contact"
+
+[[Menu.Main]]
+    name = "Hosts"
+    identifier = "hosts"
+    url = "/host"
