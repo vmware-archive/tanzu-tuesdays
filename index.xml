@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tanzu Tuesdays - Live Every Tuesday at 1pm PT</title>
+    <link>https://vmware-tanzu.github.io/</link>
+    <description>Recent content on Tanzu Tuesdays - Live Every Tuesday at 1pm PT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://vmware-tanzu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Episode - Streaming April 7</title>
+      <link>https://vmware-tanzu.github.io/episode/0001/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vmware-tanzu.github.io/episode/0001/</guid>
+      <description>Coming real soon now.</description>
+    </item>
+    
+    <item>
+      <title>Paul Czarkowski</title>
+      <link>https://vmware-tanzu.github.io/host/paulczar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vmware-tanzu.github.io/host/paulczar/</guid>
+      <description>Spoon fresh pie ingredients groceries oranges luncheon farm. Broth chick peas Chinese food indie foods. Cream heating cheese food locally grown first class caramelize restaurant grocery shopping savory chick peas. Recommendations lovely starter soda herbes fridge chocolate eat better quinoa sausage java chef locally grown wholesome. Broil sweet sushi lasagna cream indian. Desert sour vegetarian sous-chef soda oven tasty eat better rice recommendations relish salt butter grape. Grocery shopping delicious Chinese food beets conserve ginger.</description>
+    </item>
+    
+  </channel>
+</rss>
