@@ -3,38 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vmware-tanzu.github.io/episode/</loc>
+    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/episode/0001/</loc>
+    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0001/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/</loc>
+    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/categories/</loc>
+    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/host/</loc>
+    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/host/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/host/paulczar/</loc>
+    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/host/paulczar/</loc>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/tags/</loc>
+    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/</loc>
     <priority>0</priority>
   </url>
   
