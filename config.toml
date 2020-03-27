@@ -1,4 +1,4 @@
-baseURL = "https://vmware-tanzu.github.io"
+baseURL = "https://vmware-tanzu.github.io/tanzu-tuesdays"
 languageCode = "en-us"
 title = "Tanzu Tuesdays - Live Every Tuesday at 1pm PT"
 theme = "castanet"
