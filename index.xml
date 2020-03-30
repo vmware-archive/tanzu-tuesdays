@@ -21,6 +21,24 @@
     </item>
     
     <item>
+      <title>Bob Brindley</title>
+      <link>https://vmware-tanzu.github.io/tanzu-tuesdays/host/bob/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/host/bob/</guid>
+      <description>Bob drinks the good whiskey.</description>
+    </item>
+    
+    <item>
+      <title>Josh Long</title>
+      <link>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/joshlong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/joshlong/</guid>
+      <description>Paul is a great host.</description>
+    </item>
+    
+    <item>
       <title>Paul Czarkowski</title>
       <link>https://vmware-tanzu.github.io/tanzu-tuesdays/host/paulczar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

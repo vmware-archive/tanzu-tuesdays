@@ -20,13 +20,26 @@
   </url>
   
   <url>
+    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/host/bob/</loc>
+  </url>
+  
+  <url>
     <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/host/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/joshlong/</loc>
   </url>
   
   <url>
