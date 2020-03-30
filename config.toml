@@ -25,6 +25,13 @@ description = "Tanzu Tuesdays streams Live on Twitch every Tuesday at 1pm PT."
     [params.authors.paulczar.social]
       twitter = "pczarkowski"
 
+    [params.authors.bob]
+      name	= "Robert Brindley"
+      bio   = "Drinks the good whiskey."
+      thumbnail = "img/hosts/bob.jpg"
+    [params.authors.bob.social]
+      twitter = "bob_brindley"
+
   [params.links]
     [params.links.vmware]
       name = "VMware"
@@ -44,3 +51,8 @@ description = "Tanzu Tuesdays streams Live on Twitch every Tuesday at 1pm PT."
     name = "Hosts"
     identifier = "hosts"
     url = "/host"
+
+[[Menu.Main]]
+    name = "Episodes"
+    identifier = "episodes"
+    url = "/"
