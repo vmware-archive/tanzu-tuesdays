@@ -36,6 +36,11 @@
             <a class = "social-links" href="https://facebook.com/{{ .Site.Params.social.facebook }}"><i class="fab fa-facebook-square fa-2x"></i></a>
           </li>
         {{ end }}
+        {{ if (isset .Site.Params.social "twitch" ) }}
+          <li>
+            <a class = "social-links"  href="https://twitch.tv/{{ .Site.Params.social.twitch }}"><i class="fab fa-twitch fa-2x"></i></a>
+          </li>
+        {{ end }}
         {{ if (isset .Site.Params.social "twitter" ) }}
           <li>
             <a class = "social-links" href="https://twitter.com/{{ .Site.Params.social.twitter }}"><i class="fab fa-twitter-square fa-2x"></i></a>

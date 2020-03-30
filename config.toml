@@ -14,8 +14,9 @@ copyright_notice = "Copyright 2020 [VMware](https://www.vmware.com)"
 description = "Tanzu Tuesdays streams Live on Twitch every Tuesday at 1pm PT."
 
   [params.social]
-  github = "vmware-tanzu"
-  youtube = "makejarnotwar"
+  github = "vmware-tanzu/tanzu-tuesdays"
+  youtube = "channel/UC2YjasM1YNeYEmDOhw9R5mg"
+  twitch = "makejarnotwar"
 
   [params.authors]
     [params.authors.paulczar]
