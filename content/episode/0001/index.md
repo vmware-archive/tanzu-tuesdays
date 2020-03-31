@@ -4,7 +4,7 @@ aliases = ["/0001"]
 author = "paulczar"
 hosts = ["bob"]
 guests = ["joshlong"]
-date = "2019-04-07"
+date = "2020-03-22"
 episode = "0001"
 episode_image = "episode/0001/episode.png"
 episode_banner = "episode/0001/episode.png"
@@ -16,4 +16,4 @@ truncate = ""
 
 +++
 
-Coming real soon now.
+<show notes go here>

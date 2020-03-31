@@ -50,10 +50,15 @@ description = "Tanzu Tuesdays streams Live on Twitch every Tuesday at 1pm PT."
 
 [[Menu.Main]]
     name = "Hosts"
-    identifier = "hosts"
+    identifier = "02-hosts"
     url = "/host"
 
 [[Menu.Main]]
     name = "Episodes"
-    identifier = "episodes"
+    identifier = "01-episodes"
     url = "/"
+
+[[Menu.Main]]
+    name = "Guests"
+    identifier = "03-guest"
+    url = "/guest"
