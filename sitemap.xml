@@ -3,19 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0002/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0001/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -36,6 +41,10 @@
   <url>
     <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/host/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/jakub/</loc>
   </url>
   
   <url>
