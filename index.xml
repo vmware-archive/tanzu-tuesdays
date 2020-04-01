@@ -65,5 +65,14 @@
       <description>Paul is a great host.</description>
     </item>
     
+    <item>
+      <title>tiffany jernigan</title>
+      <link>https://vmware-tanzu.github.io/tanzu-tuesdays/host/tiffany/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/host/tiffany/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
