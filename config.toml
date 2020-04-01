@@ -33,6 +33,13 @@ description = "Tanzu Tuesdays streams Live on Twitch every Tuesday at 1pm PT."
     [params.authors.bob.social]
       twitter = "bob_brindley"
 
+    [params.authors.tiffany]
+      name	= "tiffany jernigan"
+      bio   = "<insert bio here :3>"
+      thumbnail = "img/hosts/tiffany.jpg"
+    [params.authors.tiffany.social]
+      twitter = "tiffanyfayj"
+
   [params.links]
     [params.links.vmware]
       name = "VMware"
