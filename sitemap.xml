@@ -8,14 +8,14 @@
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/</loc>
+    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0001/</loc>
     <lastmod>2020-03-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0001/</loc>
+    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/</loc>
     <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

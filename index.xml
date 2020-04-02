@@ -21,12 +21,12 @@
     </item>
     
     <item>
-      <title>First Episode - Streaming April 7</title>
+      <title>April 7 - Reactive Revolution with Josh Long</title>
       <link>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0001/</link>
       <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0001/</guid>
-      <description></description>
+      <description>Microservices and big-data increasingly confront us with the limitations of traditional input/output. In traditional IO, work that is IO-bound dominates threads. This wouldn’t be such a big deal if we could add more threads cheaply, but threads are expensive on the JVM, and most other platforms. Even if threads were cheap and infinitely scalable, we’d still be confronted with the faulty nature of networks. Things break, and they often do so in subtle, but non-exceptional ways.</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/joshlong/</guid>
-      <description>Paul is a great host.</description>
+      <description>Josh (@starbuxman) has (officially) been a Spring Developer Advocate since 2010. Josh is a Java Champion, author of 6 books (including O’Reilly’s Cloud Native Java: Designing Resilient Systems with Spring Boot and the upcoming Reactive Spring) and numerous best-selling video trainings (including Building Microservices with Spring Boot Livelessons with Spring Boot co-founder Phil Webb), and an open-source contributor (Spring Boot, Spring Integration, Spring Cloud, Activiti and Vaadin), a podcaster (A Bootiful Podcast) and a screencaster.</description>
     </item>
     
     <item>
