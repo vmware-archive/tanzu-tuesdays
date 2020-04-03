@@ -4,15 +4,17 @@ aliases = ["/0001"]
 author = "paulczar"
 hosts = ["bob"]
 guests = ["joshlong"]
-date = "2020-03-22"
+Date = "2020-04-07"
+PublishDate = "2020-03-25"
 episode = "0001"
 episode_image = "episode/0001/episode.png"
 episode_banner = "episode/0001/episode.png"
 explicit = "no"
 images = ["episode/0001/episode.png"]
-title = "April 7 - Reactive Revolution with Josh Long"
+title = "Reactive Revolution with Josh Long"
 youtube = ""
 truncate = ""
+twitch = "makejarnotwar"
 
 +++
 

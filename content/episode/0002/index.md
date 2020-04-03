@@ -4,13 +4,14 @@ aliases = ["/0002"]
 author = "paulczar"
 hosts = ["bob"]
 guests = ["jakub"]
-date = "2020-03-22"
+PublishDate = "2020-04-01"
+Date = "2020-04-14"
 episode = "0002"
 episode_image = "episode/0002/episode.png"
 episode_banner = "episode/0002/episode.png"
 explicit = "no"
 images = ["episode/0002/episode.png"]
-title = "<Jakub fill this out> with Jakub Pilimon - April 14"
+title = "Cool stuff with Jakub Pilimon"
 youtube = ""
 truncate = ""
 

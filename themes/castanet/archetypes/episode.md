@@ -15,6 +15,7 @@ images = ["img/episode/default-social.jpg"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 #aliases = ["/##"]
 #youtube = ""
+#twitch = ""
 explicit = "no" # values are "yes" or "no"
 # media_override # if you want to use a specific URL for the audio file
 # truncate = ""

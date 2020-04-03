@@ -1,9 +1,12 @@
 {{ define "main" }}
-
   <div class="row">
     <div class="col">
       <h1>{{ title .Title }}</h1>
-      <small>Posted on {{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
+{{- if lt now.Unix .Date.Unix }}
+<h2>Streaming on <a href="https://twitch.tv/{{ .Params.twitch | default "makejarnotwar" }}">https://twitch.tv/{{ .Params.twitch | default "makejarnotwar" }}</a> at 2pm on {{ dateFormat "Monday, Jan 2, 2006" .Date }}</h2>
+{{- end }}
+
+      <small>Posted on {{ dateFormat "Monday, Jan 2, 2006" .PublishDate }}</small>
     </div>
   </div>
 
