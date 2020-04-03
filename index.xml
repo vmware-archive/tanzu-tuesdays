@@ -6,24 +6,24 @@
     <description>Recent content on Tanzu Tuesdays - Live Every Tuesday at 1pm PT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://vmware-tanzu.github.io/tanzu-tuesdays/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>&lt;Jakub fill this out&gt; with Jakub Pilimon - April 14</title>
+      <title>Cool stuff with Jakub Pilimon</title>
       <link>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0002/</link>
-      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0002/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>April 7 - Reactive Revolution with Josh Long</title>
+      <title>Reactive Revolution with Josh Long</title>
       <link>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0001/</link>
-      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0001/</guid>
       <description>Microservices and big-data increasingly confront us with the limitations of traditional input/output. In traditional IO, work that is IO-bound dominates threads. This wouldn’t be such a big deal if we could add more threads cheaply, but threads are expensive on the JVM, and most other platforms. Even if threads were cheap and infinitely scalable, we’d still be confronted with the faulty nature of networks. Things break, and they often do so in subtle, but non-exceptional ways.</description>
