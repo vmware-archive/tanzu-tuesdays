@@ -10,7 +10,7 @@ site_theme = "grey"
 site_layout = "grid"
 # site_layout = "row"
 enable_jumbo = "true"
-copyright_notice = "Copyright 2020 [VMware](https://www.vmware.com)"
+copyright_notice = "Copyright 2020 [VMware](https://www.vmware.com), Inc &bullet; [Terms of Use](https://www.vmware.com/help/legal.html) &bullet; [Privacy Policy](https://www.vmware.com/help/privacy.html)"
 description = "Tanzu Tuesdays streams Live on Twitch every Tuesday at 1pm PT."
 
   [params.social]
