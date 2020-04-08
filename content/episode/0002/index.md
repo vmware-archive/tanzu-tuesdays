@@ -1,5 +1,5 @@
 +++
-Description = "Jakub fill this out"
+Description = ""
 aliases = ["/0002"]
 author = "paulczar"
 hosts = ["bob"]
