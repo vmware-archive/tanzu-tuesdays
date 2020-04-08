@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Tanzu Tuesdays - Live Every Tuesday at 1pm PT</title>
+    <link>https://vmware-tanzu.github.io/tanzu-tuesdays/docs/</link>
+    <description>Recent content in Docs on Tanzu Tuesdays - Live Every Tuesday at 1pm PT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://vmware-tanzu.github.io/tanzu-tuesdays/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Schedule a new Tanzu Tuesdays Episode</title>
+      <link>https://vmware-tanzu.github.io/tanzu-tuesdays/docs/schedule-an-episode/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/docs/schedule-an-episode/</guid>
+      <description>Welcome! If you&amp;rsquo;re here, it means you&amp;rsquo;re a willing participant in this zany thing we call Tanzu Tuesdays. You&amp;rsquo;re probably here to help keep things running smoothly, or perhaps you want to star in your very own episode. Stay tuned and let&amp;rsquo;s talk through scheduling an Episode.
+Note: This is not set in stone, if you have a better way to do this, we&amp;rsquo;re all ears. Just trying to keep things simple and all in one place.</description>
+    </item>
+    
+  </channel>
+</rss>
