@@ -69,8 +69,3 @@ description = "Tanzu Tuesdays streams Live on Twitch every Tuesday at 1pm PT."
     name = "Guests"
     identifier = "03-guest"
     url = "/guest"
-
-[[Menu.Main]]
-    name = "Docs"
-    identifier = "04-docs"
-    url = "/docs"
