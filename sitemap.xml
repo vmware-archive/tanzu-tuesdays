@@ -4,14 +4,19 @@
   
   <url>
     <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/</loc>
-    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/</loc>
-    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0003/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -49,6 +54,10 @@
   
   <url>
     <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/joshlong/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/mheckler/</loc>
   </url>
   
   <url>

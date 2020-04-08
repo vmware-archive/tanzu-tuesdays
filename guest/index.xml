@@ -16,8 +16,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/jakub/</guid>
-      <description>Jakub&amp;rsquo;s BIO
-Jakub is a Developer Advocate at VMware, blogger, programmer, and trainer. He loves to tackle complex enterprises with Domain-Driven Design, Test-Driven Development and Spring. Architecture is a main area of interest, too. When he doesn&amp;rsquo;t program, he rides motorbikes, skis or practices kitesurfing. Here is his DZone MVB awarded blog: https://pillopl.github.io and his pet projects can be found here: https://github.com/ddd-by-examples.</description>
+      <description>Jakub is a Developer Advocate at VMware, blogger, programmer, and trainer. He loves to tackle complex enterprises with Domain-Driven Design, Test-Driven Development and Spring. Architecture is a main area of interest, too. When he doesn&amp;rsquo;t program, he rides motorbikes, skis or practices kitesurfing.
+He writes a DZone MVB awarded blog and his pet projects can be found at https://github.com/ddd-by-examples.</description>
     </item>
     
     <item>
@@ -27,6 +27,16 @@ Jakub is a Developer Advocate at VMware, blogger, programmer, and trainer. He lo
       
       <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/joshlong/</guid>
       <description>Josh (@starbuxman) has (officially) been a Spring Developer Advocate since 2010. Josh is a Java Champion, author of 6 books (including O’Reilly’s Cloud Native Java: Designing Resilient Systems with Spring Boot and the upcoming Reactive Spring) and numerous best-selling video trainings (including Building Microservices with Spring Boot Livelessons with Spring Boot co-founder Phil Webb), and an open-source contributor (Spring Boot, Spring Integration, Spring Cloud, Activiti and Vaadin), a podcaster (A Bootiful Podcast) and a screencaster.</description>
+    </item>
+    
+    <item>
+      <title>Mark Heckler</title>
+      <link>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/mheckler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/mheckler/</guid>
+      <description>Jakub is a Developer Advocate at VMware, blogger, programmer, and trainer. He loves to tackle complex enterprises with Domain-Driven Design, Test-Driven Development and Spring. Architecture is a main area of interest, too. When he doesn&amp;rsquo;t program, he rides motorbikes, skis or practices kitesurfing.
+He writes a DZone MVB awarded blog and his pet projects can be found at https://github.com/ddd-by-examples.</description>
     </item>
     
   </channel>

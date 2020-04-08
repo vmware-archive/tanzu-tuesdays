@@ -6,20 +6,29 @@
     <description>Recent content on Tanzu Tuesdays - Live Every Tuesday at 1pm PT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://vmware-tanzu.github.io/tanzu-tuesdays/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Unit Testing Done Right</title>
+      <title>Unit Testing Done Right with Jakub Pilimon</title>
+      <link>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0003/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0003/</guid>
+      <description>&amp;ldquo;TDD leads to a great design&amp;rdquo; - they said. &amp;ldquo;Mocking is bad&amp;rdquo; - they said. &amp;ldquo;Integration testing is slow&amp;rdquo; - they said. &amp;ldquo;Testable architecture to the rescue&amp;rdquo; - they said. &amp;ldquo;If you don&amp;rsquo;t test, don&amp;rsquo;t call yourself a developer!&amp;rdquo; - they said. &amp;ldquo;Code coverage must be 100%&amp;rdquo; - they said.
+&amp;hellip; and so on and so forth.
+In this talk we will tackle some of the testing gotchas. There will be live coding, architecture rants, some slides and (hopefully) much fun.</description>
+    </item>
+    
+    <item>
+      <title>Episode 2 with Mark Heckler</title>
       <link>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0002/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0002/</guid>
-      <description>&amp;ldquo;TDD leads to a great design&amp;rdquo; - they said. &amp;ldquo;Mocking is bad&amp;rdquo; - they said. &amp;ldquo;Integration testing is slow&amp;rdquo; - they said. &amp;ldquo;Testable architecture to the rescue&amp;rdquo; - they said. &amp;ldquo;If you don&amp;rsquo;t test, don&amp;rsquo;t call yourself a developer!&amp;rdquo; - they said. &amp;ldquo;Code coverage must be 100%&amp;rdquo; - they said.
-&amp;hellip; and so on and so forth.
-In this talk we will tackle some of the testing gotchas. There will be live coding, architecture rants, some slides and (hopefully) much fun.</description>
+      <description></description>
     </item>
     
     <item>
@@ -46,8 +55,8 @@ In this talk we will tackle some of the testing gotchas. There will be live codi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/jakub/</guid>
-      <description>Jakub&amp;rsquo;s BIO
-Jakub is a Developer Advocate at VMware, blogger, programmer, and trainer. He loves to tackle complex enterprises with Domain-Driven Design, Test-Driven Development and Spring. Architecture is a main area of interest, too. When he doesn&amp;rsquo;t program, he rides motorbikes, skis or practices kitesurfing. Here is his DZone MVB awarded blog: https://pillopl.github.io and his pet projects can be found here: https://github.com/ddd-by-examples.</description>
+      <description>Jakub is a Developer Advocate at VMware, blogger, programmer, and trainer. He loves to tackle complex enterprises with Domain-Driven Design, Test-Driven Development and Spring. Architecture is a main area of interest, too. When he doesn&amp;rsquo;t program, he rides motorbikes, skis or practices kitesurfing.
+He writes a DZone MVB awarded blog and his pet projects can be found at https://github.com/ddd-by-examples.</description>
     </item>
     
     <item>
@@ -57,6 +66,16 @@ Jakub is a Developer Advocate at VMware, blogger, programmer, and trainer. He lo
       
       <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/joshlong/</guid>
       <description>Josh (@starbuxman) has (officially) been a Spring Developer Advocate since 2010. Josh is a Java Champion, author of 6 books (including O’Reilly’s Cloud Native Java: Designing Resilient Systems with Spring Boot and the upcoming Reactive Spring) and numerous best-selling video trainings (including Building Microservices with Spring Boot Livelessons with Spring Boot co-founder Phil Webb), and an open-source contributor (Spring Boot, Spring Integration, Spring Cloud, Activiti and Vaadin), a podcaster (A Bootiful Podcast) and a screencaster.</description>
+    </item>
+    
+    <item>
+      <title>Mark Heckler</title>
+      <link>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/mheckler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/mheckler/</guid>
+      <description>Jakub is a Developer Advocate at VMware, blogger, programmer, and trainer. He loves to tackle complex enterprises with Domain-Driven Design, Test-Driven Development and Spring. Architecture is a main area of interest, too. When he doesn&amp;rsquo;t program, he rides motorbikes, skis or practices kitesurfing.
+He writes a DZone MVB awarded blog and his pet projects can be found at https://github.com/ddd-by-examples.</description>
     </item>
     
     <item>
