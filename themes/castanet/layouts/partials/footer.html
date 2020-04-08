@@ -3,6 +3,11 @@
   <div class="col-md-12">
     <nav class = "navbar navbar-default navbar_footer">
     <ul class="nav navbar-nav navbar-right">
+      {{ if .IsPage }}
+        <li>
+          <p class = "footer_copyright"><a href="https://github.com/{{ .Site.Params.social.github }}/edit/master/content/{{ .File.Path }}">Edit Me</a></p>
+        </li>
+      {{ end }}
       {{ if (isset .Site.Params "copyright_notice" ) }}
         <li>
           <p class = "footer_copyright">{{ .Site.Params.copyright_notice | markdownify}}</p>
