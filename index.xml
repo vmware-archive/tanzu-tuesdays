@@ -12,12 +12,14 @@
     
     
     <item>
-      <title>Cool stuff with Jakub Pilimon</title>
+      <title>Unit Testing Done Right</title>
       <link>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0002/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0002/</guid>
-      <description></description>
+      <description>&amp;ldquo;TDD leads to a great design&amp;rdquo; - they said. &amp;ldquo;Mocking is bad&amp;rdquo; - they said. &amp;ldquo;Integration testing is slow&amp;rdquo; - they said. &amp;ldquo;Testable architecture to the rescue&amp;rdquo; - they said. &amp;ldquo;If you don&amp;rsquo;t test, don&amp;rsquo;t call yourself a developer!&amp;rdquo; - they said. &amp;ldquo;Code coverage must be 100%&amp;rdquo; - they said.
+&amp;hellip; and so on and so forth.
+In this talk we will tackle some of the testing gotchas. There will be live coding, architecture rants, some slides and (hopefully) much fun.</description>
     </item>
     
     <item>
