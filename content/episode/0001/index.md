@@ -5,14 +5,14 @@ author = "paulczar"
 hosts = ["bob"]
 guests = ["joshlong"]
 Date = "2020-04-07"
-PublishDate = "2020-03-25"
+PublishDate = "2020-04-07"
 episode = "0001"
 episode_image = "episode/0001/episode.jpg"
 episode_banner = "episode/0001/episode.jpg"
 explicit = "no"
 images = ["episode/0001/episode.jpg"]
 title = "Reactive Revolution with Josh Long"
-youtube = ""
+youtube = "DMBdPJNOpSk"
 truncate = ""
 twitch = "makejarnotwar"
 
