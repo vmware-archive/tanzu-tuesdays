@@ -3,7 +3,7 @@
     <div class="col">
       <h1>{{ title .Title }}</h1>
 {{- if lt now.Unix .Date.Unix }}
-<h2><a href="https://twitch.tv/{{ .Params.twitch | default "makejarnotwar" }}">https://twitch.tv/{{ .Params.twitch | default "makejarnotwar" }}</a> at 1pm PT on {{ dateFormat "Monday, Jan 2, 2006" .Date }}</h2>
+<h2><a href="https://twitch.tv/{{ .Params.twitch | default "makejarnotwar" }}">https://twitch.tv/{{ .Params.twitch | default "makejarnotwar" }}</a> at 1 PM PT on {{ dateFormat "Monday, Jan 2, 2006" .Date }}</h2>
 {{- end }}
 
       <small>Posted on {{ dateFormat "Monday, Jan 2, 2006" .PublishDate }}</small>

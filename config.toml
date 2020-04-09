@@ -1,6 +1,6 @@
 baseURL = "https://vmware-tanzu.github.io/tanzu-tuesdays"
 languageCode = "en-us"
-title = "Tanzu Tuesdays - Live Every Tuesday at 1pm PT"
+title = "Tanzu Tuesdays - Live Every Tuesday at 1 PM PT"
 theme = "castanet"
 
 # see https://github.com/mattstratton/castanet/blob/master/REFERENCE.md
@@ -11,7 +11,7 @@ site_layout = "grid"
 # site_layout = "row"
 enable_jumbo = "true"
 copyright_notice = "Copyright 2020 [VMware](https://www.vmware.com), Inc &bullet; [Terms of Use](https://www.vmware.com/help/legal.html) &bullet; [Privacy Policy](https://www.vmware.com/help/privacy.html)"
-description = "Tanzu Tuesdays streams Live on Twitch every Tuesday at 1pm PT."
+description = "Tanzu Tuesdays streams Live on Twitch every Tuesday at 1 PM PT."
 
   [params.social]
   github = "vmware-tanzu/tanzu-tuesdays"
