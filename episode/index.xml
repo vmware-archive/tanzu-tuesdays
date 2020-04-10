@@ -10,7 +10,7 @@
      xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
     >
   <channel>
-    <title>Tanzu Tuesdays - Live Every Tuesday at 1pm PT</title>
+    <title>Tanzu Tuesdays - Live Every Tuesday at 1 PM PT</title>
     <atom:link href="https://vmware-tanzu.github.io/tanzu-tuesdays/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://vmware-tanzu.github.io/tanzu-tuesdays</link>
     <description></description>
@@ -34,7 +34,7 @@
     <googleplay:image href=""></googleplay:image>
     <image>
       <url></url>
-      <title>Tanzu Tuesdays - Live Every Tuesday at 1pm PT</title>
+      <title>Tanzu Tuesdays - Live Every Tuesday at 1 PM PT</title>
       <link>https://vmware-tanzu.github.io/tanzu-tuesdays</link>
     </image>
     <itunes:category text="">

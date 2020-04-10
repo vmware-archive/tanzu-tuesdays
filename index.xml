@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tanzu Tuesdays - Live Every Tuesday at 1pm PT</title>
+    <title>Tanzu Tuesdays - Live Every Tuesday at 1 PM PT</title>
     <link>https://vmware-tanzu.github.io/tanzu-tuesdays/</link>
-    <description>Recent content on Tanzu Tuesdays - Live Every Tuesday at 1pm PT</description>
+    <description>Recent content on Tanzu Tuesdays - Live Every Tuesday at 1 PM PT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate>
@@ -17,9 +17,8 @@
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0003/</guid>
-      <description>&amp;ldquo;TDD leads to a great design&amp;rdquo; - they said. &amp;ldquo;Mocking is bad&amp;rdquo; - they said. &amp;ldquo;Integration testing is slow&amp;rdquo; - they said. &amp;ldquo;Testable architecture to the rescue&amp;rdquo; - they said. &amp;ldquo;If you don&amp;rsquo;t test, don&amp;rsquo;t call yourself a developer!&amp;rdquo; - they said. &amp;ldquo;Code coverage must be 100%&amp;rdquo; - they said.
-&amp;hellip; and so on and so forth.
-In this talk we will tackle some of the testing gotchas. There will be live coding, architecture rants, some slides and (hopefully) much fun.</description>
+      <description>“TDD leads to a great design,” they said. “Mocking is bad,” they said. “Integration testing is slow,” they said. “Testable architecture to the rescue,” they said. “If you don’t test, don’t call yourself a developer,” they said. “Code coverage must be 100%,” they said. And so on and so forth.
+In this talk, we&amp;rsquo;ll tackle some of the testing gotchas. There will be live coding, architecture rants, some slides and (hopefully) much fun.</description>
     </item>
     
     <item>
