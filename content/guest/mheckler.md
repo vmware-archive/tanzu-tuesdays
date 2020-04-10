@@ -7,6 +7,6 @@ GitHub = "mkheck"
 Thumbnail = "img/guest/mheckler.jpg"
 +++
 
-[Jakub](https://twitter.com/JakubPilimon) is a Developer Advocate at [VMware](https://vmware.com), blogger, programmer, and trainer. He loves to tackle complex enterprises with Domain-Driven Design, Test-Driven Development and Spring. Architecture is a main area of interest, too. When he doesn't program, he rides motorbikes, skis or practices kitesurfing.
+[Mark Heckler](https://thehecklers.com/) is a software developer & Spring Developer Advocate at VMware, conference speaker, published author, & Java Champion focusing upon developing innovative production-ready software at velocity for the cloud.
 
-He writes a [DZone MVB awarded blog](https://pillopl.github.io) and his pet projects can be found at [https://github.com/ddd-by-examples](https://github.com/ddd-by-examples).
+He has worked with key players in the manufacturing, retail, medical, scientific, telecom, and financial industries and various public sector organizations to develop and deliver critical capabilities on time and on budget. Mark is an open source contributor and author/curator of a developer-focused [blog](https://www.thehecklers.com) and an occasionally interesting [Twitter account](https://twitter.com/mkheck).
