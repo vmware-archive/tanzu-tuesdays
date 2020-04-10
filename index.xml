@@ -23,12 +23,14 @@ In this talk we will tackle some of the testing gotchas. There will be live codi
     </item>
     
     <item>
-      <title>Episode 2 with Mark Heckler</title>
+      <title>Distributed Systems With Mark Heckler</title>
       <link>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0002/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0002/</guid>
-      <description></description>
+      <description>Have you ever watched Bob Ross start with a blank canvas at the beginning of an episode and wondered how he ended the show with all of those happy little trees? You are not alone.
+This session is a guided, live-coding tour of select Spring technologies with an eye toward production: Spring Boot, database access, Java, Kotlin, REST APIs, template engines, imperative, reactive&amp;hellip;so many brushes to choose and use!
+This session will be a guided tour of several key Spring technologies with the goal of exploring and understanding how they fit together, pros and cons, and options you have at hand to deliver robust production systems.</description>
     </item>
     
     <item>
@@ -56,7 +58,8 @@ Note: This is not set in stone, if you have a better way to do this, we&amp;rsqu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/host/bob/</guid>
-      <description>Bob drinks the good whiskey.</description>
+      <description>Bob Brindley travels the world spreading the good word according to Tanzu and Spring to any and all that will hear.
+He has been a developer advocate for 5 years and still smells terrific.</description>
     </item>
     
     <item>
@@ -84,8 +87,8 @@ He writes a DZone MVB awarded blog and his pet projects can be found at https://
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/mheckler/</guid>
-      <description>Jakub is a Developer Advocate at VMware, blogger, programmer, and trainer. He loves to tackle complex enterprises with Domain-Driven Design, Test-Driven Development and Spring. Architecture is a main area of interest, too. When he doesn&amp;rsquo;t program, he rides motorbikes, skis or practices kitesurfing.
-He writes a DZone MVB awarded blog and his pet projects can be found at https://github.com/ddd-by-examples.</description>
+      <description>Mark Heckler is a software developer &amp;amp; Spring Developer Advocate at VMware, conference speaker, published author, &amp;amp; Java Champion focusing upon developing innovative production-ready software at velocity for the cloud.
+He has worked with key players in the manufacturing, retail, medical, scientific, telecom, and financial industries and various public sector organizations to develop and deliver critical capabilities on time and on budget. Mark is an open source contributor and author/curator of a developer-focused blog and an occasionally interesting Twitter account.</description>
     </item>
     
     <item>
@@ -94,7 +97,7 @@ He writes a DZone MVB awarded blog and his pet projects can be found at https://
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/host/paulczar/</guid>
-      <description>Paul is a great host.</description>
+      <description>Paul Czarkowski is a long time practitioner of the dark arts of Devops. Hailing from Australia he moved to Austin Texas to help build and run one of the largest and most successful online games. Now at VMWare, Paul works to improve the Operator experience by taking Cloud Native software development concepts and applying them to Operations to create platforms that reduce toil and improve software delivery.</description>
     </item>
     
     <item>
