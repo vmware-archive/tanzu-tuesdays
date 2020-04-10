@@ -1,6 +1,6 @@
 {
-    "current_program_scene": "Zoom",
-    "current_scene": "Zoom",
+    "current_program_scene": "Starting Soon",
+    "current_scene": "Starting Soon",
     "current_transition": "Global Transition",
     "groups": [],
     "modules": {
@@ -43,7 +43,7 @@
             "name": "Zoom"
         },
         {
-            "name": "Starting Soon(1)"
+            "name": "Starting Soon"
         },
         {
             "name": "Be Right Back"
@@ -56,6 +56,9 @@
         },
         {
             "name": "Avatars"
+        },
+        {
+            "name": "TT Card"
         }
     ],
     "sources": [
@@ -65,9 +68,233 @@
             "deinterlace_mode": 0,
             "enabled": true,
             "flags": 0,
+            "hotkeys": {},
+            "id": "text_gdiplus",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Text - Streaming Starts At",
+            "prev_ver": 419430401,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "align": "center",
+                "bk_color": 4278190080,
+                "color": 4278190080,
+                "text": "Streaming starts\nat 1:00pm PST"
+            },
+            "sync": 0,
+            "versioned_id": "text_gdiplus_v2",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "text_gdiplus",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Text - Ending Soon",
+            "prev_ver": 419430401,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "align": "center",
+                "color": 4278190080,
+                "text": "Thanks for\nwatching"
+            },
+            "sync": 0,
+            "versioned_id": "text_gdiplus_v2",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "text_gdiplus",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Text - Be Right Back",
+            "prev_ver": 419430401,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "align": "center",
+                "color": 4278190080,
+                "text": "We'll be \nright back"
+            },
+            "sync": 0,
+            "versioned_id": "text_gdiplus_v2",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "image_source",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "tanzu tuesday card",
+            "prev_ver": 419430401,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "file": "C:/Users/Paul Czar/WSL/development/vmware/tanzu-tuesdays/obs-config/img/blank-title.png"
+            },
+            "sync": 0,
+            "versioned_id": "image_source",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.tanzu tuesday card": [],
+                "libobs.show_scene_item.tanzu tuesday card": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "TT Card",
+            "prev_ver": 419430401,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 1,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "tanzu tuesday card",
+                        "pos": {
+                            "x": 327.0,
+                            "y": 242.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "image_source",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Avatar-Jakub_Pilimon",
+            "prev_ver": 419430401,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "file": "C:/Users/Paul Czar/WSL/development/vmware/tanzu-tuesdays/content/img/avatars/Jakub-Pilimon.png",
+                "unload": true
+            },
+            "sync": 0,
+            "versioned_id": "image_source",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "image_source",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Avatar-Mark_Heckler",
+            "prev_ver": 419430401,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "file": "C:/Users/Paul Czar/WSL/development/vmware/tanzu-tuesdays/content/img/avatars/Mark-Heckler.png",
+                "unload": true
+            },
+            "sync": 0,
+            "versioned_id": "image_source",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.Avatar-Jakub_Pilimon": [],
+                "libobs.hide_scene_item.Avatar-Mark_Heckler": [],
                 "libobs.hide_scene_item.Josh Long": [],
+                "libobs.show_scene_item.Avatar-Jakub_Pilimon": [],
+                "libobs.show_scene_item.Avatar-Mark_Heckler": [],
                 "libobs.show_scene_item.Josh Long": []
             },
             "id": "scene",
@@ -83,7 +310,7 @@
             "push-to-talk-delay": 0,
             "settings": {
                 "custom_size": false,
-                "id_counter": 1,
+                "id_counter": 3,
                 "items": [
                     {
                         "align": 5,
@@ -112,7 +339,65 @@
                             "y": 1.0
                         },
                         "scale_filter": "disable",
+                        "visible": false
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 2,
+                        "locked": false,
+                        "name": "Avatar-Mark_Heckler",
+                        "pos": {
+                            "x": 543.0,
+                            "y": 183.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
                         "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 3,
+                        "locked": false,
+                        "name": "Avatar-Jakub_Pilimon",
+                        "pos": {
+                            "x": 515.0,
+                            "y": 180.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": false
                     }
                 ]
             },
@@ -220,12 +505,14 @@
             "flags": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.Avatars": [],
                 "libobs.hide_scene_item.Backgrounds": [],
-                "libobs.hide_scene_item.Image": [],
-                "libobs.hide_scene_item.Josh Long": [],
+                "libobs.hide_scene_item.TT Card": [],
+                "libobs.hide_scene_item.Text - Ending Soon": [],
+                "libobs.show_scene_item.Avatars": [],
                 "libobs.show_scene_item.Backgrounds": [],
-                "libobs.show_scene_item.Image": [],
-                "libobs.show_scene_item.Josh Long": []
+                "libobs.show_scene_item.TT Card": [],
+                "libobs.show_scene_item.Text - Ending Soon": []
             },
             "id": "scene",
             "mixers": 0,
@@ -240,7 +527,7 @@
             "push-to-talk-delay": 0,
             "settings": {
                 "custom_size": false,
-                "id_counter": 3,
+                "id_counter": 6,
                 "items": [
                     {
                         "align": 5,
@@ -284,12 +571,12 @@
                         "crop_right": 0,
                         "crop_top": 0,
                         "group_item_backup": false,
-                        "id": 1,
+                        "id": 5,
                         "locked": false,
-                        "name": "Image",
+                        "name": "TT Card",
                         "pos": {
-                            "x": 346.7528076171875,
-                            "y": 281.022705078125
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -313,18 +600,47 @@
                         "crop_right": 0,
                         "crop_top": 0,
                         "group_item_backup": false,
-                        "id": 2,
+                        "id": 4,
                         "locked": false,
-                        "name": "Josh Long",
+                        "name": "Text - Ending Soon",
                         "pos": {
-                            "x": 1154.8265380859375,
-                            "y": 457.81512451171875
+                            "x": 412.0,
+                            "y": 428.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.25814720988273621,
-                            "y": 0.25814720988273621
+                            "x": 0.37683823704719543,
+                            "y": 0.37689393758773804
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 6,
+                        "locked": false,
+                        "name": "Avatars",
+                        "pos": {
+                            "x": 1026.0,
+                            "y": 386.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.2421875,
+                            "y": 0.24259258806705475
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -343,12 +659,14 @@
             "flags": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.Avatars": [],
                 "libobs.hide_scene_item.Backgrounds": [],
-                "libobs.hide_scene_item.Be right back": [],
-                "libobs.hide_scene_item.Josh Long": [],
+                "libobs.hide_scene_item.TT Card": [],
+                "libobs.hide_scene_item.Text - Be Right Back": [],
+                "libobs.show_scene_item.Avatars": [],
                 "libobs.show_scene_item.Backgrounds": [],
-                "libobs.show_scene_item.Be right back": [],
-                "libobs.show_scene_item.Josh Long": []
+                "libobs.show_scene_item.TT Card": [],
+                "libobs.show_scene_item.Text - Be Right Back": []
             },
             "id": "scene",
             "mixers": 0,
@@ -363,7 +681,7 @@
             "push-to-talk-delay": 0,
             "settings": {
                 "custom_size": false,
-                "id_counter": 3,
+                "id_counter": 6,
                 "items": [
                     {
                         "align": 5,
@@ -407,12 +725,12 @@
                         "crop_right": 0,
                         "crop_top": 0,
                         "group_item_backup": false,
-                        "id": 1,
+                        "id": 5,
                         "locked": false,
-                        "name": "Be right back",
+                        "name": "TT Card",
                         "pos": {
-                            "x": 346.09417724609375,
-                            "y": 280.0357666015625
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -436,18 +754,47 @@
                         "crop_right": 0,
                         "crop_top": 0,
                         "group_item_backup": false,
-                        "id": 2,
+                        "id": 4,
                         "locked": false,
-                        "name": "Josh Long",
+                        "name": "Avatars",
                         "pos": {
-                            "x": 1154.8265380859375,
-                            "y": 463.98663330078125
+                            "x": 1026.0,
+                            "y": 390.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.24897639453411102,
-                            "y": 0.24897639453411102
+                            "x": 0.2395833283662796,
+                            "y": 0.23981481790542603
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 6,
+                        "locked": false,
+                        "name": "Text - Be Right Back",
+                        "pos": {
+                            "x": 382.0,
+                            "y": 404.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.51703405380249023,
+                            "y": 0.51704543828964233
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -466,20 +813,22 @@
             "flags": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.Avatars": [],
                 "libobs.hide_scene_item.Backgrounds": [],
                 "libobs.hide_scene_item.Guest": [],
-                "libobs.hide_scene_item.Josh Long": [],
-                "libobs.hide_scene_item.Starting Soon": [],
+                "libobs.hide_scene_item.TT Card": [],
+                "libobs.hide_scene_item.Text - Streaming Starts At": [],
+                "libobs.show_scene_item.Avatars": [],
                 "libobs.show_scene_item.Backgrounds": [],
                 "libobs.show_scene_item.Guest": [],
-                "libobs.show_scene_item.Josh Long": [],
-                "libobs.show_scene_item.Starting Soon": []
+                "libobs.show_scene_item.TT Card": [],
+                "libobs.show_scene_item.Text - Streaming Starts At": []
             },
             "id": "scene",
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
-            "name": "Starting Soon(1)",
+            "name": "Starting Soon",
             "prev_ver": 419430401,
             "private_settings": {},
             "push-to-mute": false,
@@ -488,7 +837,7 @@
             "push-to-talk-delay": 0,
             "settings": {
                 "custom_size": false,
-                "id_counter": 4,
+                "id_counter": 9,
                 "items": [
                     {
                         "align": 5,
@@ -503,41 +852,12 @@
                         "crop_right": 0,
                         "crop_top": 0,
                         "group_item_backup": false,
-                        "id": 0,
+                        "id": 6,
                         "locked": false,
                         "name": "Backgrounds",
                         "pos": {
                             "x": 0.0,
                             "y": 0.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.1111111640930176
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 1,
-                        "locked": false,
-                        "name": "Starting Soon",
-                        "pos": {
-                            "x": 335.17691040039063,
-                            "y": 279.52084350585938
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -590,18 +910,76 @@
                         "crop_right": 0,
                         "crop_top": 0,
                         "group_item_backup": false,
-                        "id": 3,
+                        "id": 9,
                         "locked": false,
-                        "name": "Josh Long",
+                        "name": "TT Card",
                         "pos": {
-                            "x": 1150.7886962890625,
-                            "y": 462.00009155273438
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.25067257881164551,
-                            "y": 0.25067257881164551
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 8,
+                        "locked": false,
+                        "name": "Text - Streaming Starts At",
+                        "pos": {
+                            "x": 375.0,
+                            "y": 425.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.31622910499572754,
+                            "y": 0.31628787517547607
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 7,
+                        "locked": false,
+                        "name": "Avatars",
+                        "pos": {
+                            "x": 1025.0,
+                            "y": 382.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.24583333730697632,
+                            "y": 0.24629630148410797
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -620,11 +998,11 @@
             "flags": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.Avatars": [],
                 "libobs.hide_scene_item.Backgrounds": [],
-                "libobs.hide_scene_item.Josh Long": [],
                 "libobs.hide_scene_item.Window Capture": [],
+                "libobs.show_scene_item.Avatars": [],
                 "libobs.show_scene_item.Backgrounds": [],
-                "libobs.show_scene_item.Josh Long": [],
                 "libobs.show_scene_item.Window Capture": []
             },
             "id": "scene",
@@ -640,7 +1018,7 @@
             "push-to-talk-delay": 0,
             "settings": {
                 "custom_size": false,
-                "id_counter": 3,
+                "id_counter": 4,
                 "items": [
                     {
                         "align": 5,
@@ -713,18 +1091,18 @@
                         "crop_right": 0,
                         "crop_top": 0,
                         "group_item_backup": false,
-                        "id": 2,
+                        "id": 4,
                         "locked": false,
-                        "name": "Josh Long",
+                        "name": "Avatars",
                         "pos": {
-                            "x": 1491.9874267578125,
-                            "y": 662.3109130859375
+                            "x": 1207.0,
+                            "y": 461.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.88497549295425415,
-                            "y": 0.88497549295425415
+                            "x": 0.65468752384185791,
+                            "y": 0.65462964773178101
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -755,7 +1133,7 @@
             "push-to-talk-delay": 0,
             "settings": {
                 "file": "C:\\Users\\Paul Czar\\WSL\\development\\vmware\\tanzu-tuesdays\\content\\img\\avatars\\Josh-Long.png",
-                "unload": false
+                "unload": true
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -852,7 +1230,7 @@
                 "outline_color": 16777215,
                 "outline_opacity": 100,
                 "outline_size": 2,
-                "text": "Today's Guest\nJosh Long\nThe Reactive Revolution",
+                "text": "Today's Guest\nMark Heckler\n\"Doing Spring Stuff\"",
                 "valign": "top"
             },
             "sync": 0,
@@ -885,84 +1263,6 @@
             },
             "sync": 0,
             "versioned_id": "window_capture",
-            "volume": 1.0
-        },
-        {
-            "balance": 0.5,
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
-            "flags": 0,
-            "hotkeys": {},
-            "id": "image_source",
-            "mixers": 0,
-            "monitoring_type": 0,
-            "muted": false,
-            "name": "Image",
-            "prev_ver": 419430401,
-            "private_settings": {},
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "file": "C:\\Users\\Paul Czar\\AppData\\Roaming\\slobs-client\\Media\\359011869-the-end.png",
-                "unload": false
-            },
-            "sync": 0,
-            "versioned_id": "image_source",
-            "volume": 1.0
-        },
-        {
-            "balance": 0.5,
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
-            "flags": 0,
-            "hotkeys": {},
-            "id": "image_source",
-            "mixers": 0,
-            "monitoring_type": 0,
-            "muted": false,
-            "name": "Starting Soon",
-            "prev_ver": 419430401,
-            "private_settings": {},
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "file": "C:\\Users\\Paul Czar\\WSL\\development\\vmware\\tanzu-tuesdays\\obs-config\\img\\starting-soon.png",
-                "unload": false
-            },
-            "sync": 0,
-            "versioned_id": "image_source",
-            "volume": 1.0
-        },
-        {
-            "balance": 0.5,
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
-            "flags": 0,
-            "hotkeys": {},
-            "id": "image_source",
-            "mixers": 0,
-            "monitoring_type": 0,
-            "muted": false,
-            "name": "Be right back",
-            "prev_ver": 419430401,
-            "private_settings": {},
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "file": "C:\\Users\\Paul Czar\\AppData\\Roaming\\slobs-client\\Media\\358931996-be right back.png",
-                "unload": false
-            },
-            "sync": 0,
-            "versioned_id": "image_source",
             "volume": 1.0
         },
         {
