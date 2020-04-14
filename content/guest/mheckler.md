@@ -4,7 +4,7 @@ Twitter = "mkheck"
 Website = "https://thehecklers.com/"
 Type = "guest"
 GitHub = "mkheck"
-Thumbnail = "img/guest/mheckler.jpg"
+Thumbnail = "img/avatars/Mark-Heckler.png"
 +++
 
 [Mark Heckler](https://thehecklers.com/) is a software developer & Spring Developer Advocate at VMware, conference speaker, published author, & Java Champion focusing upon developing innovative production-ready software at velocity for the cloud.

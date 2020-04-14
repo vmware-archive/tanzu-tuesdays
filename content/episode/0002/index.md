@@ -2,7 +2,7 @@
 Description = "Building Distributed Systems with Spring Boot: From the Ground Up."
 aliases = ["/0002"]
 author = "paulczar"
-hosts = ["bob"]
+hosts = ["bob","tiffany","paulczar"]
 guests = ["mheckler"]
 PublishDate = "2020-04-01"
 Date = "2020-04-14"

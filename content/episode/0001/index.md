@@ -2,7 +2,7 @@
 Description = "The threads are revolting! viva la reactive revolution!"
 aliases = ["/0001"]
 author = "paulczar"
-hosts = ["bob"]
+hosts = ["bob","tiffany","paulczar"]
 guests = ["joshlong"]
 Date = "2020-04-07"
 PublishDate = "2020-04-07"

@@ -2,7 +2,7 @@
 Title = "Bob Brindley"
 Twitter = "bob_brindley"
 Type = "host"
-Thumbnail = "img/hosts/bob.jpg"
+Thumbnail = "img/avatars/Bob-Brindley.jpg"
 Linkedin = "bob-brindley-953863110"
 +++
 

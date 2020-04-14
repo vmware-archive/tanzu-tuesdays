@@ -4,7 +4,7 @@ Twitter = "starbuxman"
 Website = "http://reactivespring.io/"
 Type = "guest"
 GitHub = "joshlong"
-Thumbnail = "img/hosts/joshlong.png"
+Thumbnail = "img/avatars/Josh-Long.png"
 Youtube = "UCg6OxemHTt-gKawaohgA00w"
 +++
 

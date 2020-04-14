@@ -2,7 +2,7 @@
 Description = ""
 aliases = ["/0003"]
 author = "paulczar"
-hosts = ["bob"]
+hosts = ["bob","tiffany","paulczar"]
 guests = ["jakub"]
 PublishDate = "2020-04-01"
 Date = "2020-04-21"

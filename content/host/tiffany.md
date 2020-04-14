@@ -3,7 +3,7 @@ Title = "tiffany jernigan"
 Twitter = "tiffanyfayj"
 Type = "host"
 GitHub = "tiffanyfay"
-Thumbnail = "img/hosts/tiffany.jpg"
+Thumbnail = "img/avatars/Tiffany-Jernigan.jpg"
 +++
 
-<insert bio here :3>
+Tiffany is a Developer Advocate for Tanzu at VMWare.
