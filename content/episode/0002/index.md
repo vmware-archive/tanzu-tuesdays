@@ -12,7 +12,7 @@ episode_image = "episode/0002/episode.jpg"
 explicit = "no"
 # images = ["episode/0003/episode.jpg"]
 title = "Distributed Systems With Mark Heckler"
-youtube = ""
+youtube = "PGT_gvnWRts"
 truncate = ""
 twitch = "makejarnotwar"
 +++
