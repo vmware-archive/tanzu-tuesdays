@@ -7,28 +7,28 @@
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <meta name="description" content="Unit Testing Done Right with Jakub Pilimon">
+  <meta name="description" content="Helm is the go-to package management tool for Kubernetes. Let’s work as a team to build a Helm chart, create a chart repository and deploy our applications to Kubernetes.">
 
 <meta name="generator" content="Hugo 0.56.3" />
 
-<meta property="og:title" content="Unit Testing Done Right With Jakub Pilimon" />
-<meta name="twitter:title" content="Unit Testing Done Right with Jakub Pilimon"/>
-<meta itemprop="name" content="Unit Testing Done Right with Jakub Pilimon">
-<meta property="article:modified_time" content="2020-04-21 00:00:00 &#43;0000 UTC" /><meta property="og:description" content="Unit Testing Done Right with Jakub Pilimon" />
-    <meta name="twitter:description" content="Unit Testing Done Right with Jakub Pilimon" />
-    <meta itemprop="description" content="Unit Testing Done Right with Jakub Pilimon">
+<meta property="og:title" content="Let&#39;s Build a Helm Chart With Paul Czarkowski" />
+<meta name="twitter:title" content="Let&#39;s build a Helm Chart with Paul Czarkowski"/>
+<meta itemprop="name" content="Let&#39;s build a Helm Chart with Paul Czarkowski">
+<meta property="article:modified_time" content="2020-04-28 00:00:00 &#43;0000 UTC" /><meta property="og:description" content="Helm is the go-to package management tool for Kubernetes. Let’s work as a team to build a Helm chart, create a chart repository and deploy our applications to Kubernetes." />
+    <meta name="twitter:description" content="Helm is the go-to package management tool for Kubernetes. Let’s work as a team to build a Helm chart, create a chart repository and deploy our applications to Kubernetes." />
+    <meta itemprop="description" content="Helm is the go-to package management tool for Kubernetes. Let’s work as a team to build a Helm chart, create a chart repository and deploy our applications to Kubernetes.">
 
 
 <meta property="og:type" content="website" />
 
-<meta property="og:url" content="/tanzu-tuesdays/episode/0003/" />
+<meta property="og:url" content="/tanzu-tuesdays/episode/0005/" />
 
 
     <meta name="twitter:card" content="summary_large_image" />
     
-        <meta property="og:image" content="https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0003/episode.jpg" />
-        <meta name="twitter:image" content="https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0003/episode.jpg"/>
-        <meta itemprop="image" content="https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0003/episode.jpg" />
+        <meta property="og:image" content="https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0005/episode.jpg" />
+        <meta name="twitter:image" content="https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0005/episode.jpg"/>
+        <meta itemprop="image" content="https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0005/episode.jpg" />
     
 
 
@@ -40,10 +40,10 @@
 <title>
 
 
-     Unit Testing Done Right with Jakub Pilimon 
+     Let&#39;s build a Helm Chart with Paul Czarkowski 
 
 </title>
-<link rel="canonical" href="https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0003/">
+<link rel="canonical" href="https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0005/">
 
 <link rel="icon" href="icons/favicon.ico">
 
@@ -146,8 +146,8 @@
   
   <div class="row">
     <div class="col">
-      <h1>Unit Testing Done Right With Jakub Pilimon</h1>
-<h2><a href="https://twitch.tv/makejarnotwar">https://twitch.tv/makejarnotwar</a> at 1 PM PT on Tuesday, Apr 21, 2020</h2>
+      <h1>Let&#39;s Build a Helm Chart With Paul Czarkowski</h1>
+<h2><a href="https://twitch.tv/makejarnotwar">https://twitch.tv/makejarnotwar</a> at 1 PM PT on Tuesday, Apr 28, 2020</h2>
 
       <small>Posted on Wednesday, Apr 1, 2020</small>
     </div>
@@ -157,21 +157,19 @@
     
       <div class = "row">
       <div class = "col">
-        <img src="https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0003/episode.jpg" class="img-fluid episode_image"/>
+        <img src="https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0005/episode.jpg" class="img-fluid episode_image"/>
       </div>
       </div>
       <div class = "row">
       <div class = "col">
-        Unit Testing Done Right with Jakub Pilimon
+        Helm is the go-to package management tool for Kubernetes. Let’s work as a team to build a Helm chart, create a chart repository and deploy our applications to Kubernetes.
       </div>
       </div>
     
     <div class="row">
     <div class="col">
       <h2>Show Notes</h2>
-      <p>“TDD leads to a great design,” they said. “Mocking is bad,” they said. “Integration testing is slow,” they said. “Testable architecture to the rescue,” they said. “If you don’t test, don’t call yourself a developer,” they said. “Code coverage must be 100%,” they said. And so on and so forth.</p>
-
-<p>In this talk, we&rsquo;ll tackle some of the testing gotchas. There will be live coding, architecture rants, some slides and (hopefully) much fun. Both senior and junior developers should find something interesting in that testing example.</p>
+      <p>Rather than a set of slides, this will be a live mob programming exercise where we will develop several helm charts from scratch to deploy to a fresh kubernetes cluster. By the end of the session we’ll not only have learned how to write a helm chart, but also how to upload and share them via a chart repository and will explore other tools in the ecosystem as time permits.</p>
 
     </div>
   </div>
@@ -184,17 +182,15 @@
         </div>
             
               <div class="row person_row">
-                  <div class="col-md-3"><img alt="Jakub Pilimon" src="https://vmware-tanzu.github.io/tanzu-tuesdays/img/avatars/Jakub-Pilimon.png" class="img-fluid" width="250px"></div>
+                  <div class="col-md-3"><img alt="Paul Czarkowski" src="https://vmware-tanzu.github.io/tanzu-tuesdays/img/avatars/Paul-Czarkowski.jpg" class="img-fluid" width="250px"></div>
                   <div class="col-md-8">
-                    <h2><a href = "https://vmware-tanzu.github.io/tanzu-tuesdays/guest/jakub">Jakub Pilimon</a></h2>
-                    <p><a href="https://twitter.com/JakubPilimon">Jakub</a> is a Developer Advocate at <a href="https://vmware.com">VMware</a>, blogger, programmer, and trainer. He loves to tackle complex enterprises with Domain-Driven Design, Test-Driven Development and Spring. Architecture is a main area of interest, too. When he doesn&rsquo;t program, he rides motorbikes, skis or practices kitesurfing.</p>
-
-<p>He writes a <a href="https://pillopl.github.io">DZone MVB awarded blog</a> and his pet projects can be found at <a href="https://github.com/ddd-by-examples">https://github.com/ddd-by-examples</a>.</p>
-<a href="https://github.com/ddd-by-examples">
+                    <h2><a href = "https://vmware-tanzu.github.io/tanzu-tuesdays/guest/paulczar">Paul Czarkowski</a></h2>
+                    <p>Paul Czarkowski is a long time practitioner of the dark arts of Devops. Hailing from Australia he moved to Austin Texas to help build and run one of the largest and most successful online games. Now at VMWare, Paul works to improve the Operator experience by taking Cloud Native software development concepts and applying them to Operations to create platforms that reduce toil and improve software delivery.</p>
+<a href="http://tech.paulcz.net/">
                         <i class="fas fa-home fa-2x"></i>
-                      </a><a href="https://twitter.com/@JakubPilimon">
+                      </a><a href="https://twitter.com/pczarkowski">
                         <i class="fab fa-twitter-square fa-2x"></i>
-                      </a><a href="https://github.com/pillopl">
+                      </a><a href="https://github.com/paulczar">
                         <i class="fab fa-github-square fa-2x"></i>
                       </a></div>
                   </div>
@@ -234,19 +230,6 @@
                   <i class="fab fa-github-square fa-2x"></i>
                 </a></div>
             </div>
-        <div class="row person_row">
-            <div class="col-md-3"><img alt="Paul Czarkowski" src="https://vmware-tanzu.github.io/tanzu-tuesdays/img/avatars/Paul-Czarkowski.jpg" class="img-fluid" width="250px"></div>
-            <div class="col-md-8">
-              <h2><a href = "https://vmware-tanzu.github.io/tanzu-tuesdays/host/paulczar">Paul Czarkowski</a></h2>
-              <p>Paul Czarkowski is a long time practitioner of the dark arts of Devops. Hailing from Australia he moved to Austin Texas to help build and run one of the largest and most successful online games. Now at VMWare, Paul works to improve the Operator experience by taking Cloud Native software development concepts and applying them to Operations to create platforms that reduce toil and improve software delivery.</p>
-<a href="http://tech.paulcz.net/">
-                  <i class="fas fa-home fa-2x"></i>
-                </a><a href="https://twitter.com/pczarkowski">
-                  <i class="fab fa-twitter-square fa-2x"></i>
-                </a><a href="https://github.com/paulczar">
-                  <i class="fab fa-github-square fa-2x"></i>
-                </a></div>
-            </div>
 
 
 
@@ -265,18 +248,18 @@
             <ul class="pagination">
               
                 <li class="page-item">
-                  <a href="https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0002/" class="page-link">
+                  <a href="https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0004/" class="page-link">
                     <span aria-hidden="true">&larr;</span>
                     Previous</a>
                 </li>
                 
               
-                <li class="page-item">
-                  <a href="https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0004/" class="page-link">Next
+                <li class="page-item disabled">
+                  <a href="#" class="page-link">Next
                     <span aria-hidden="true">&rarr;</span>
                   </a>
                 </li>
-                
+              
             </ul>
           </nav>
         </div>
@@ -291,7 +274,7 @@
     <ul class="nav navbar-nav navbar-right">
       
         <li>
-          <p class = "footer_copyright"><a href="https://github.com/vmware-tanzu/tanzu-tuesdays/edit/master/content/episode/0003/index.md">Edit Me</a></p>
+          <p class = "footer_copyright"><a href="https://github.com/vmware-tanzu/tanzu-tuesdays/edit/master/content/episode/0005/index.md">Edit Me</a></p>
         </li>
       
       
@@ -321,8 +304,8 @@
         label: "Tweet",             
         logo: "fab fa-twitter",
         
-        url: "https:\/\/vmware-tanzu.github.io\/tanzu-tuesdays\/episode\/0003\/",
-        text: "Unit Testing Done Right With Jakub Pilimon"
+        url: "https:\/\/vmware-tanzu.github.io\/tanzu-tuesdays\/episode\/0005\/",
+        text: "Let\x27s Build a Helm Chart With Paul Czarkowski"
       },
       {
         share: "linkedin",

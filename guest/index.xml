@@ -39,5 +39,14 @@ He writes a DZone MVB awarded blog and his pet projects can be found at https://
 He has worked with key players in the manufacturing, retail, medical, scientific, telecom, and financial industries and various public sector organizations to develop and deliver critical capabilities on time and on budget. Mark is an open source contributor and author/curator of a developer-focused blog and an occasionally interesting Twitter account.</description>
     </item>
     
+    <item>
+      <title>Paul Czarkowski</title>
+      <link>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/paulczar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/paulczar/</guid>
+      <description>Paul Czarkowski is a long time practitioner of the dark arts of Devops. Hailing from Australia he moved to Austin Texas to help build and run one of the largest and most successful online games. Now at VMWare, Paul works to improve the Operator experience by taking Cloud Native software development concepts and applying them to Operations to create platforms that reduce toil and improve software delivery.</description>
+    </item>
+    
   </channel>
 </rss>
