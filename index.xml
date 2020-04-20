@@ -26,7 +26,7 @@
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0004/</guid>
-      <description>Architecture pew pew!</description>
+      <description>Rich Hickey once said programmers know the benefits of everything and the trade offs of nothing…an approach that can lead a project down a path of frustrated developers and unhappy customers. As architects though, we must consider the trade offs of every new library, language, pattern or approach and quickly make decisions often with incomplete information. How should we think about the inevitable technology choices we have to make on a project?</description>
     </item>
     
     <item>
@@ -106,6 +106,15 @@ He writes a DZone MVB awarded blog and his pet projects can be found at https://
       <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/mheckler/</guid>
       <description>Mark Heckler is a software developer &amp;amp; Spring Developer Advocate at VMware, conference speaker, published author, &amp;amp; Java Champion focusing upon developing innovative production-ready software at velocity for the cloud.
 He has worked with key players in the manufacturing, retail, medical, scientific, telecom, and financial industries and various public sector organizations to develop and deliver critical capabilities on time and on budget. Mark is an open source contributor and author/curator of a developer-focused blog and an occasionally interesting Twitter account.</description>
+    </item>
+    
+    <item>
+      <title>Nathaniel T. Schutta</title>
+      <link>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/nate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/nate/</guid>
+      <description>Nathaniel T. Schutta is a software architect focused on cloud computing and building usable applications. A proponent of polyglot programming, Nate has written multiple books and appeared in various videos. Nate is a seasoned speaker regularly presenting at conferences worldwide, No Fluff Just Stuff symposia, meetups, universities, and user groups. In addition to his day job, Nate is an adjunct professor at the University of Minnesota where he teaches students to embrace (and evaluate) technical change.</description>
     </item>
     
     <item>
