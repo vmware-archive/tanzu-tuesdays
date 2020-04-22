@@ -1,4 +1,4 @@
-baseURL = "https://makejarnotwar.com/"
+baseURL = "https://vmware-tanzu.github.io/tanzu-tuesdays"
 languageCode = "en-us"
 title = "VMWare Tanzu Developer Advocates"
 theme = "castanet"
