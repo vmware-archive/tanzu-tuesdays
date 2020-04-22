@@ -1,73 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>VMWare Tanzu Developer Advocates</title>
-    <link>https://makejarnotwar.com/</link>
-    <description>Recent content on VMWare Tanzu Developer Advocates</description>
+    <title>Kubernetes on VMWare Tanzu Developer Advocates</title>
+    <link>https://makejarnotwar.com/tags/kubernetes/</link>
+    <description>Recent content in Kubernetes on VMWare Tanzu Developer Advocates</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://makejarnotwar.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://makejarnotwar.com/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Let&#39;s build a Helm Chart with Paul Czarkowski</title>
-      <link>https://makejarnotwar.com/episode/0005/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://makejarnotwar.com/episode/0005/</guid>
-      <description>Rather than a set of slides, this will be a live mob programming exercise where we will develop several helm charts from scratch to deploy to a fresh kubernetes cluster. By the end of the session we’ll not only have learned how to write a helm chart, but also how to upload and share them via a chart repository and will explore other tools in the ecosystem as time permits.</description>
-    </item>
-    
-    <item>
-      <title>The Practical Architect with Nate Schutta</title>
-      <link>https://makejarnotwar.com/episode/0004/</link>
-      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://makejarnotwar.com/episode/0004/</guid>
-      <description>Rich Hickey once said programmers know the benefits of everything and the trade offs of nothing…an approach that can lead a project down a path of frustrated developers and unhappy customers. As architects though, we must consider the trade offs of every new library, language, pattern or approach and quickly make decisions often with incomplete information. How should we think about the inevitable technology choices we have to make on a project?</description>
-    </item>
-    
-    <item>
-      <title>Unit Testing Done Right with Jakub Pilimon</title>
-      <link>https://makejarnotwar.com/episode/0003/</link>
-      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://makejarnotwar.com/episode/0003/</guid>
-      <description>“TDD leads to a great design,” they said. “Mocking is bad,” they said. “Integration testing is slow,” they said. “Testable architecture to the rescue,” they said. “If you don’t test, don’t call yourself a developer,” they said. “Code coverage must be 100%,” they said. And so on and so forth.
-In this talk, we&amp;rsquo;ll tackle some of the testing gotchas. There will be live coding, architecture rants, some slides and (hopefully) much fun.</description>
-    </item>
-    
-    <item>
-      <title>Distributed Systems With Mark Heckler</title>
-      <link>https://makejarnotwar.com/episode/0002/</link>
-      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://makejarnotwar.com/episode/0002/</guid>
-      <description>Have you ever watched Bob Ross start with a blank canvas at the beginning of an episode and wondered how he ended the show with all of those happy little trees? You are not alone.
-This session is a guided, live-coding tour of select Spring technologies with an eye toward production: Spring Boot, database access, Java, Kotlin, REST APIs, template engines, imperative, reactive&amp;hellip;so many brushes to choose and use!
-This session will be a guided tour of several key Spring technologies with the goal of exploring and understanding how they fit together, pros and cons, and options you have at hand to deliver robust production systems.</description>
-    </item>
-    
-    <item>
-      <title>How to Schedule a new Tanzu Tuesdays Episode</title>
-      <link>https://makejarnotwar.com/docs/schedule-an-episode/</link>
-      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://makejarnotwar.com/docs/schedule-an-episode/</guid>
-      <description>Welcome! If you&amp;rsquo;re here, it means you&amp;rsquo;re a willing participant in this zany thing we call Tanzu Tuesdays. You&amp;rsquo;re probably here to help keep things running smoothly, or perhaps you want to star in your very own episode. Stay tuned and let&amp;rsquo;s talk through scheduling an Episode.
-Note: This is not set in stone, if you have a better way to do this, we&amp;rsquo;re all ears. Just trying to keep things simple and all in one place.</description>
-    </item>
-    
-    <item>
-      <title>Reactive Revolution with Josh Long</title>
-      <link>https://makejarnotwar.com/episode/0001/</link>
-      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://makejarnotwar.com/episode/0001/</guid>
-      <description>Microservices and big-data increasingly confront us with the limitations of traditional input/output. In traditional IO, work that is IO-bound dominates threads. This wouldn’t be such a big deal if we could add more threads cheaply, but threads are expensive on the JVM, and most other platforms. Even if threads were cheap and infinitely scalable, we’d still be confronted with the faulty nature of networks. Things break, and they often do so in subtle, but non-exceptional ways.</description>
-    </item>
     
     <item>
       <title>Bob Brindley</title>

@@ -14,21 +14,21 @@
 <meta property="og:title" content="Let&#39;s Build a Helm Chart With Paul Czarkowski" />
 <meta name="twitter:title" content="Let&#39;s build a Helm Chart with Paul Czarkowski"/>
 <meta itemprop="name" content="Let&#39;s build a Helm Chart with Paul Czarkowski">
-<meta property="article:modified_time" content="2020-04-28 00:00:00 &#43;0000 UTC" /><meta property="og:description" content="Helm is the go-to package management tool for Kubernetes. Let’s work as a team to build a Helm chart, create a chart repository and deploy our applications to Kubernetes." />
+<meta property="article:modified_time" content="2020-05-05 00:00:00 &#43;0000 UTC" /><meta property="og:description" content="Helm is the go-to package management tool for Kubernetes. Let’s work as a team to build a Helm chart, create a chart repository and deploy our applications to Kubernetes." />
     <meta name="twitter:description" content="Helm is the go-to package management tool for Kubernetes. Let’s work as a team to build a Helm chart, create a chart repository and deploy our applications to Kubernetes." />
     <meta itemprop="description" content="Helm is the go-to package management tool for Kubernetes. Let’s work as a team to build a Helm chart, create a chart repository and deploy our applications to Kubernetes.">
 
 
 <meta property="og:type" content="website" />
 
-<meta property="og:url" content="/tanzu-tuesdays/episode/0005/" />
+<meta property="og:url" content="/episode/0005/" />
 
 
     <meta name="twitter:card" content="summary_large_image" />
     
-        <meta property="og:image" content="https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0005/episode.jpg" />
-        <meta name="twitter:image" content="https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0005/episode.jpg"/>
-        <meta itemprop="image" content="https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0005/episode.jpg" />
+        <meta property="og:image" content="https://makejarnotwar.com//episode/0005/episode.jpg" />
+        <meta name="twitter:image" content="https://makejarnotwar.com//episode/0005/episode.jpg"/>
+        <meta itemprop="image" content="https://makejarnotwar.com//episode/0005/episode.jpg" />
     
 
 
@@ -43,18 +43,18 @@
      Let&#39;s build a Helm Chart with Paul Czarkowski 
 
 </title>
-<link rel="canonical" href="https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0005/">
+<link rel="canonical" href="https://makejarnotwar.com/episode/0005/">
 
 <link rel="icon" href="icons/favicon.ico">
 
 
-<link href="https://vmware-tanzu.github.io/tanzu-tuesdays/css/grey.css" rel="stylesheet">
+<link href="https://makejarnotwar.com/css/grey.css" rel="stylesheet">
 
 <link href="https://fonts.googleapis.com/css?family=Lato|Raleway" rel="stylesheet">
 
 
-<link href=https://vmware-tanzu.github.io/tanzu-tuesdays/css/all.css rel="stylesheet">
-<link href=https://vmware-tanzu.github.io/tanzu-tuesdays/css/mediaelementplayer.min.css rel="stylesheet">
+<link href=https://makejarnotwar.com/css/all.css rel="stylesheet">
+<link href=https://makejarnotwar.com/css/mediaelementplayer.min.css rel="stylesheet">
 <style>
     .mejs__overlay-button {
         background-image: url("/img/mejs-controls.svg");
@@ -66,7 +66,7 @@
         background-image: url("/img/mejs-controls.svg");
     }
     </style>
-<link href=https://vmware-tanzu.github.io/tanzu-tuesdays/css/speed.min.css rel="stylesheet">
+<link href=https://makejarnotwar.com/css/speed.min.css rel="stylesheet">
 <link href='/tanzu-tuesdays/img/favicon.ico' rel='shortcut icon' type='image/vnd.microsoft.icon'>
 
 
@@ -75,7 +75,7 @@
 <body lang="">
 <nav class="navbar fixed-top navbar-expand-md navbar-light bg-light">
 <div class="container">
-<a class="navbar-brand" href="https://vmware-tanzu.github.io/tanzu-tuesdays">Tanzu Tuesdays - Live Every Tuesday at 1 PM PT</a>
+<a class="navbar-brand" href="https://makejarnotwar.com/">VMWare Tanzu Developer Advocates</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -86,7 +86,7 @@
           
             
                 <li class= "nav-item ">
-                <a href="/tanzu-tuesdays/" class="nav-link">
+                <a href="/" class="nav-link">
                     
                     <span>Episodes</span>
                 </a>
@@ -95,7 +95,7 @@
           
             
                 <li class= "nav-item ">
-                <a href="/tanzu-tuesdays/host" class="nav-link">
+                <a href="/host" class="nav-link">
                     
                     <span>Hosts</span>
                 </a>
@@ -104,9 +104,18 @@
           
             
                 <li class= "nav-item ">
-                <a href="/tanzu-tuesdays/guest" class="nav-link">
+                <a href="/guest" class="nav-link">
                     
                     <span>Guests</span>
+                </a>
+              </li>
+            
+          
+            
+                <li class= "nav-item ">
+                <a href="/advocate" class="nav-link">
+                    
+                    <span>Advocates</span>
                 </a>
               </li>
             
@@ -147,7 +156,7 @@
   <div class="row">
     <div class="col">
       <h1>Let&#39;s Build a Helm Chart With Paul Czarkowski</h1>
-<h2><a href="https://twitch.tv/makejarnotwar">https://twitch.tv/makejarnotwar</a> at 1 PM PT on Tuesday, Apr 28, 2020</h2>
+<h2><a href="https://twitch.tv/makejarnotwar">https://twitch.tv/makejarnotwar</a> at 1 PM PT on Tuesday, May 5, 2020</h2>
 
       <small>Posted on Wednesday, Apr 1, 2020</small>
     </div>
@@ -157,7 +166,7 @@
     
       <div class = "row">
       <div class = "col">
-        <img src="https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0005/episode.jpg" class="img-fluid episode_image"/>
+        <img src="https://makejarnotwar.com/episode/0005/episode.jpg" class="img-fluid episode_image"/>
       </div>
       </div>
       <div class = "row">
@@ -182,9 +191,9 @@
         </div>
             
               <div class="row person_row">
-                  <div class="col-md-3"><img alt="Paul Czarkowski" src="https://vmware-tanzu.github.io/tanzu-tuesdays/img/avatars/Paul-Czarkowski.jpg" class="img-fluid" width="250px"></div>
+                  <div class="col-md-3"><img alt="Paul Czarkowski" src="https://makejarnotwar.com/img/advocate/paulczar.jpg" class="img-fluid" width="250px"></div>
                   <div class="col-md-8">
-                    <h2><a href = "https://vmware-tanzu.github.io/tanzu-tuesdays/guest/paulczar">Paul Czarkowski</a></h2>
+                    <h2><a href = "https://makejarnotwar.com/advocate/paulczar">Paul Czarkowski</a></h2>
                     <p>Paul Czarkowski is a long time practitioner of the dark arts of Devops. Hailing from Australia he moved to Austin Texas to help build and run one of the largest and most successful online games. Now at VMWare, Paul works to improve the Operator experience by taking Cloud Native software development concepts and applying them to Operations to create platforms that reduce toil and improve software delivery.</p>
 <a href="http://tech.paulcz.net/">
                         <i class="fas fa-home fa-2x"></i>
@@ -207,9 +216,9 @@
   </div>
       
         <div class="row person_row">
-            <div class="col-md-3"><img alt="Bob Brindley" src="https://vmware-tanzu.github.io/tanzu-tuesdays/img/avatars/Bob-Brindley.jpg" class="img-fluid" width="250px"></div>
+            <div class="col-md-3"><img alt="Bob Brindley" src="https://makejarnotwar.com/img/advocate/bob.jpg" class="img-fluid" width="250px"></div>
             <div class="col-md-8">
-              <h2><a href = "https://vmware-tanzu.github.io/tanzu-tuesdays/host/bob">Bob Brindley</a></h2>
+              <h2><a href = "https://makejarnotwar.com/advocate/bob">Bob Brindley</a></h2>
               <p>Bob Brindley travels the world spreading the good word according to Tanzu and Spring to any and all that will hear.</p>
 
 <p>He has been a developer advocate for 5 years and still smells terrific.</p>
@@ -220,9 +229,9 @@
                 </a></div>
             </div>
         <div class="row person_row">
-            <div class="col-md-3"><img alt="tiffany jernigan" src="https://vmware-tanzu.github.io/tanzu-tuesdays/img/avatars/Tiffany-Jernigan.jpg" class="img-fluid" width="250px"></div>
+            <div class="col-md-3"><img alt="Tiffany Jernigan" src="https://makejarnotwar.com/img/advocate/tiffany.jpg" class="img-fluid" width="250px"></div>
             <div class="col-md-8">
-              <h2><a href = "https://vmware-tanzu.github.io/tanzu-tuesdays/host/tiffany">tiffany jernigan</a></h2>
+              <h2><a href = "https://makejarnotwar.com/advocate/tiffany">Tiffany Jernigan</a></h2>
               <p>Tiffany is a Developer Advocate for Tanzu at VMWare.</p>
 <a href="https://twitter.com/tiffanyfayj">
                   <i class="fab fa-twitter-square fa-2x"></i>
@@ -248,7 +257,7 @@
             <ul class="pagination">
               
                 <li class="page-item">
-                  <a href="https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0004/" class="page-link">
+                  <a href="https://makejarnotwar.com/episode/0004/" class="page-link">
                     <span aria-hidden="true">&larr;</span>
                     Previous</a>
                 </li>
@@ -291,7 +300,7 @@
   </div>
 </div>
 </div>
-<script src=https://vmware-tanzu.github.io/tanzu-tuesdays/js/castanet-min.js></script>
+<script src=https://makejarnotwar.com/js/castanet-min.js></script>
 <script>
     $("#share").jsSocials({
         shares: [
@@ -304,7 +313,7 @@
         label: "Tweet",             
         logo: "fab fa-twitter",
         
-        url: "https:\/\/vmware-tanzu.github.io\/tanzu-tuesdays\/episode\/0005\/",
+        url: "https:\/\/makejarnotwar.com\/episode\/0005\/",
         text: "Let\x27s Build a Helm Chart With Paul Czarkowski"
       },
       {

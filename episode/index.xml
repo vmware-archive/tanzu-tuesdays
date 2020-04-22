@@ -10,11 +10,11 @@
      xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
     >
   <channel>
-    <title>Tanzu Tuesdays - Live Every Tuesday at 1 PM PT</title>
-    <atom:link href="https://vmware-tanzu.github.io/tanzu-tuesdays/episode/index.xml" rel="self" type="application/rss+xml" />
-    <link>https://vmware-tanzu.github.io/tanzu-tuesdays</link>
+    <title>VMWare Tanzu Developer Advocates</title>
+    <atom:link href="https://makejarnotwar.com/episode/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://makejarnotwar.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 28 Apr 2020 00:00:00 &#43;0000</lastBuildDate>
+    <lastBuildDate>Tue, 5 May 2020 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -34,8 +34,8 @@
     <googleplay:image href=""></googleplay:image>
     <image>
       <url></url>
-      <title>Tanzu Tuesdays - Live Every Tuesday at 1 PM PT</title>
-      <link>https://vmware-tanzu.github.io/tanzu-tuesdays</link>
+      <title>VMWare Tanzu Developer Advocates</title>
+      <link>https://makejarnotwar.com/</link>
     </image>
     <itunes:category text="">
       </itunes:category><generator>Hugo -- gohugo.io</generator></channel>
