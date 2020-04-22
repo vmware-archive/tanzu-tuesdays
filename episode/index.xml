@@ -11,8 +11,8 @@
     >
   <channel>
     <title>VMWare Tanzu Developer Advocates</title>
-    <atom:link href="https://makejarnotwar.com/episode/index.xml" rel="self" type="application/rss+xml" />
-    <link>https://makejarnotwar.com/</link>
+    <atom:link href="https://vmware-tanzu.github.io/tanzu-tuesdays/episode/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://vmware-tanzu.github.io/tanzu-tuesdays</link>
     <description></description>
     <lastBuildDate>Tue, 5 May 2020 00:00:00 &#43;0000</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -35,7 +35,7 @@
     <image>
       <url></url>
       <title>VMWare Tanzu Developer Advocates</title>
-      <link>https://makejarnotwar.com/</link>
+      <link>https://vmware-tanzu.github.io/tanzu-tuesdays</link>
     </image>
     <itunes:category text="">
       </itunes:category><generator>Hugo -- gohugo.io</generator></channel>
