@@ -12,7 +12,7 @@ episode_banner = "episode/0003/episode.jpg"
 explicit = "no"
 images = ["episode/0003/episode.jpg"]
 title = "Unit Testing Done Right with Jakub Pilimon"
-youtube = ""
+youtube = "SeYre-Mgb14"
 truncate = ""
 
 +++
