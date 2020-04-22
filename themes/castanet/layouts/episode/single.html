@@ -81,7 +81,7 @@
         </div>
             {{ range $name := . }}
               {{ $.Scratch.Set "person" $name }}
-              {{- range where $.Site.Pages "Type" "guest" -}}
+              {{- range where $.Site.Pages "Type" "in" (slice "guest" "advocate") -}}
                 {{- if eq .File.BaseFileName ($.Scratch.Get "person") -}}
                 {{- $.Scratch.Set "guest-exist" "true" -}}
                 <div class="row person_row">
@@ -97,7 +97,7 @@
                     {{- end -}}
                   </div>
                   <div class="col-md-8">
-                    <h2><a href = "{{(printf "guest/%s" .File.BaseFileName) | absURL }}">{{ .Title }}</a></h2>
+                    <h2><a href = "{{(printf "%s/%s" .Params.Type .File.BaseFileName) | absURL }}">{{ .Title }}</a></h2>
                     {{ .Content }}
                     {{- with .Params.Website -}}
                       <a href="{{ . }}">
@@ -195,7 +195,7 @@
   </div>
       {{ range $name := . }}
         {{ $.Scratch.Set "person" $name }}
-        {{- range where $.Site.Pages "Type" "host" -}}
+        {{- range where $.Site.Pages "Type" "in" (slice "host" "advocate") -}}
           {{- if eq .File.BaseFileName ($.Scratch.Get "person") -}}
           {{- $.Scratch.Set "host-exist" "true" -}}
           <div class="row person_row">
@@ -211,7 +211,7 @@
               {{- end -}}
             </div>
             <div class="col-md-8">
-              <h2><a href = "{{(printf "host/%s" .File.BaseFileName) | absURL }}">{{ .Title }}</a></h2>
+              <h2><a href = "{{(printf "%s/%s" .Params.Type .File.BaseFileName) | absURL }}">{{ .Title }}</a></h2>
               {{ .Content }}
               {{- with .Params.Website -}}
                 <a href="{{ . }}">

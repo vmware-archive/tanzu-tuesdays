@@ -2,9 +2,11 @@
 Title = "Mark Heckler"
 Twitter = "mkheck"
 Website = "https://thehecklers.com/"
-Type = "guest"
+Type = "advocate"
 GitHub = "mkheck"
-Thumbnail = "img/avatars/Mark-Heckler.png"
+Thumbnail = "img/advocate/mheckler.jpg"
+Description = "Developer Advocate"
+Tags = ["Spring", "Kubernetes"]
 +++
 
 [Mark Heckler](https://thehecklers.com/) is a software developer & Spring Developer Advocate at VMware, conference speaker, published author, & Java Champion focusing upon developing innovative production-ready software at velocity for the cloud.

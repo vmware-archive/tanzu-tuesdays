@@ -2,8 +2,10 @@
 Title = "Nathaniel T. Schutta"
 Twitter = "ntschutta"
 Website = "http://www.ntschutta.io/"
-Type = "guest"
-Thumbnail = "img/guest/nate.png"
+Type = "advocate"
+Thumbnail = "img/advocate/nate.png"
+Description = "Developer Advocate"
+Tags = ["Spring", "Kubernetes"]
 Draft = false
 +++
 

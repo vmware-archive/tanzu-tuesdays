@@ -5,13 +5,14 @@
 <section class="episode-list"  style="padding-left: 15px;padding-right: 15px">
 
   <div class = "col episode-list-header">
-    <h2 class = "episode-list-header">All Episodes</h2>
+    <h2 class = "episode-list-header">Upcoming Events</h2>
   </div>
 
   <div class = "row">
 
     {{ $paginator := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
         {{ range $paginator.Pages }}
+        {{ if lt (now.Unix) (.Date.Unix) }}
         {{ $.Scratch.Set "episode" .File.BaseFileName }}
           <div class="col-md-4 grid_episode_col">
             <div class="episode-image-homepage">
@@ -24,10 +25,50 @@
             </div>
             <div class="grid_episode_detail">
               <a href="{{ .Permalink }}" class= "grid_episode_title"><h3>{{ title .Title }}</h3></a>
-              <small class = "grid_episode_title">Streaming on {{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
+              <small class = "grid_episode_title">Streaming on <a href="https://twitch.tv/{{ .Params.Twitch }}">Twitch</a> at {{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
             </div>
 
           </div>
+        {{ end }}
+        {{ end }}
+
+
+  </div>
+
+</section>
+
+<section class="episode-list"  style="padding-left: 15px;padding-right: 15px">
+
+  <div class = "col episode-list-header">
+    <h2 class = "episode-list-header">Recent Events</h2>
+  </div>
+
+  <div class = "row">
+
+    {{ $paginator := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+        {{ range $paginator.Pages }}
+        {{ if ge (now.Unix) (.Date.Unix) }}
+        {{ $.Scratch.Set "episode" .File.BaseFileName }}
+          <div class="col-md-4 grid_episode_col">
+            <div class="episode-image-homepage">
+              <a href="{{ .Permalink }}">
+                  <img src="{{ .Params.episode_image | absURL }}" class="img-fluid" alt="{{ .Title }}" />
+
+
+
+              </a>
+            </div>
+            <div class="grid_episode_detail">
+              <a href="{{ .Permalink }}" class= "grid_episode_title"><h3>{{ title .Title }}</h3></a>
+              <small class = "grid_episode_title">Streamed {{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
+              {{- with .Params.YouTube -}}
+              <p>Watch on <a href="https://www.youtube.com/{{ . }}">YouTube</a>
+              </p>
+              {{- end -}}
+            </div>
+
+          </div>
+        {{ end }}
         {{ end }}
 
 

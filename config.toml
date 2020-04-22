@@ -1,6 +1,6 @@
-baseURL = "https://vmware-tanzu.github.io/tanzu-tuesdays"
+baseURL = "https://makejarnotwar.com/"
 languageCode = "en-us"
-title = "Tanzu Tuesdays - Live Every Tuesday at 1 PM PT"
+title = "VMWare Tanzu Developer Advocates"
 theme = "castanet"
 
 # see https://github.com/mattstratton/castanet/blob/master/REFERENCE.md
@@ -69,3 +69,8 @@ description = "Tanzu Tuesdays streams Live on Twitch every Tuesday at 1 PM PT."
     name = "Guests"
     identifier = "03-guest"
     url = "/guest"
+
+[[Menu.Main]]
+    name = "Advocates"
+    identifier = "04-advocates"
+    url = "/advocate"

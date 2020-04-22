@@ -1,9 +1,11 @@
 +++
 Title = "Bob Brindley"
 Twitter = "bob_brindley"
-Type = "host"
-Thumbnail = "img/avatars/Bob-Brindley.jpg"
+Type = "advocate"
+Thumbnail = "img/advocate/bob.jpg"
 Linkedin = "bob-brindley-953863110"
+Description = "Developer Advocate"
+Tags = ["Spring", "Kubernetes"]
 +++
 
 Bob Brindley travels the world spreading the good word according to Tanzu and Spring to any and all that will hear.
