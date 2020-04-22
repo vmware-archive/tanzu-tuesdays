@@ -1,6 +1,6 @@
 baseURL = "https://vmware-tanzu.github.io/tanzu-tuesdays"
 languageCode = "en-us"
-title = "VMWare Tanzu Developer Advocates"
+title = "VMware Tanzu - Developer Advocates"
 theme = "castanet"
 
 # see https://github.com/mattstratton/castanet/blob/master/REFERENCE.md
