@@ -55,22 +55,22 @@ description = "Tanzu Tuesdays streams Live on Twitch every Tuesday at 1 PM PT."
 #    identifier = "contact"
 #    url = "contact"
 
-[[Menu.Main]]
-    name = "Hosts"
-    identifier = "02-hosts"
-    url = "/host"
+#[[Menu.Main]]
+#    name = "Hosts"
+#    identifier = "02-hosts"
+#    url = "/host"
 
 [[Menu.Main]]
-    name = "Episodes"
-    identifier = "01-episodes"
+    name = "Events"
+    identifier = "01-events"
     url = "/"
 
-[[Menu.Main]]
-    name = "Guests"
-    identifier = "03-guest"
-    url = "/guest"
+#[[Menu.Main]]
+#    name = "Guests"
+#    identifier = "03-guest"
+#    url = "/guest"
 
 [[Menu.Main]]
-    name = "Advocates"
+    name = "Team"
     identifier = "04-advocates"
     url = "/advocate"
