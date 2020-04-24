@@ -1,7 +1,7 @@
 +++
 Type = "advocate"
 Title = "Tasha Isenberg"
-Twitter = "https://twitter.com/TashaIsenberg"
+Twitter = "TashaIsenberg"
 Website = ""
 GitHub = ""
 # 250x250
