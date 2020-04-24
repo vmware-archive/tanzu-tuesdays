@@ -62,7 +62,7 @@
               <a href="{{ .Permalink }}" class= "grid_episode_title"><h3>{{ title .Title }}</h3></a>
               <small class = "grid_episode_title">Streamed {{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
               {{- with .Params.YouTube -}}
-              <p>Watch on <a href="https://www.youtube.com/{{ . }}">YouTube</a>
+              <p>Watch on <a href="https://www.youtube.com/watch?v={{ . }}">YouTube</a>
               </p>
               {{- end -}}
             </div>
