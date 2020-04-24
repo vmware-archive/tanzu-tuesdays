@@ -74,3 +74,13 @@ description = "Tanzu Tuesdays streams Live on Twitch every Tuesday at 1 PM PT."
     name = "Team"
     identifier = "04-advocates"
     url = "/advocate"
+
+[[Menu.Main]]
+    name = "Who are we?"
+    identifier = "05-who"
+    url = "/who"
+
+[[Menu.Main]]
+    name = "Contact"
+    identifier = "06-contact"
+    url = "/advocate/tasha/"
