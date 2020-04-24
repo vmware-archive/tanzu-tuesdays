@@ -3,12 +3,23 @@
     <div class="col">
       <h1>{{ title .Title }}</h1>
 {{- if lt now.Unix .Date.Unix }}
-<h2><a href="https://twitch.tv/{{ .Params.twitch | default "makejarnotwar" }}">https://twitch.tv/{{ .Params.twitch | default "makejarnotwar" }}</a> at 1 PM PT on {{ dateFormat "Monday, Jan 2, 2006" .Date }}</h2>
+<h2><a href="https://twitch.tv/{{ .Params.twitch | default "makejarnotwar" }}">Streaming on <i class="fab fa-twitch"></i></a> at 1 PM PT on {{ dateFormat "Monday, Jan 2, 2006" .Date }}</h2>
 {{- end }}
 
-      <small>Posted on {{ dateFormat "Monday, Jan 2, 2006" .PublishDate }}</small>
+<!--      <small>Posted on {{ dateFormat "Monday, Jan 2, 2006" .PublishDate }}</small> -->
     </div>
   </div>
+<br><br>
+  {{ if isset .Params "youtube" }}
+  {{ if ne .Params.youtube "" }}
+    <div class = "row youtube_row">
+      <div class = "col">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="//www.youtube.com/embed/{{ . }}" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+  {{ else }}
 
   {{ if isset .Params "episode_banner" }}
     {{ if ne .Params.episode_banner "" }}
@@ -23,7 +34,7 @@
       </div>
       </div>
     {{ end }}
-    {{ else }}
+  {{ else }}
     <!-- begin square row -->
     {{- if isset .Params "episode_image" -}}
       {{- if ne .Params.episode_image "" -}}
@@ -43,8 +54,9 @@
         </div>
       </div>
       {{- end -}}
-
+    {{ end }}
     <!-- end square row -->
+    {{ end }}
     {{ end }}
     {{- with .Params.podcast_file -}}
       <div class="row">
@@ -56,19 +68,9 @@
         </div>
       </div>
     {{- end -}}
-  {{- with .Params.youtube -}}
-    <div class = "row youtube_row">
-      <div class = "col">
-        <div class="embed-responsive embed-responsive-16by9">
-          <iframe class="embed-responsive-item" src="//www.youtube.com/embed/{{ . }}" allowfullscreen></iframe>
-        </div>
-      </div>
-    </div>
-  {{- end -}}
-
+<br><br>
   <div class="row">
     <div class="col">
-      <h2>Show Notes</h2>
       {{ .Content }}
     </div>
   </div>

@@ -2,7 +2,7 @@
 Title = "Bob Brindley"
 Twitter = "bob_brindley"
 Type = "advocate"
-Thumbnail = "img/advocate/bob.jpg"
+Thumbnail = "img/advocate/thumb_bob.jpg"
 Linkedin = "bob-brindley-953863110"
 Description = "Developer Advocate"
 Tags = ["Spring", "Kubernetes"]

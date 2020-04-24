@@ -36,9 +36,9 @@
     </div>
     <div class = "row">
     {{ if (isset .Site.Params.social "twitch") }}
-      <div class = "d-flex p-2 subscribe_buttons col-md-auto">
+      <!--<div class = "d-flex p-2 subscribe_buttons col-md-auto">
         <a class="btn btn-default" href="http://twitch.tv/{{ .Site.Params.social.twitch }}"><i class="fab fa-twitch"></i>&nbsp;Twitch</a>
-      </div>
+      </div>-->
     {{ end }}
     {{ if (isset .Site.Params "spotify_subscribe") }}
       <div class = "d-flex p-2 subscribe_buttons col-md-auto">
@@ -80,9 +80,9 @@
         <a class="btn btn-default" href="{{ .Site.Params.rss_subscribe }}"><i class="fa fa-rss"></i>&nbsp;RSS</a>
       </div>
     {{ else }}
-      <div class = "d-flex p-2 subscribe_buttons col-md-auto">
+<!--      <div class = "d-flex p-2 subscribe_buttons col-md-auto">
         <a class="btn btn-default" href="{{"episode/index.xml" | absURL }}"><i class="fa fa-rss"></i>&nbsp;RSS</a>
-      </div>
+      </div> -->
     {{ end }}
 
 

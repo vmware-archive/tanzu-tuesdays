@@ -7,7 +7,9 @@ guests = ["paulczar"]
 Date = "2020-05-05"
 PublishDate = "2020-04-01"
 episode = "0005"
+# appears on episode list page
 episode_image = "episode/0005/episode.jpg"
+# appears on episode page if no youtube link
 episode_banner = "episode/0005/episode.jpg"
 explicit = "no"
 images = ["episode/0005/episode.jpg"]

@@ -7,8 +7,9 @@ guests = ["mheckler"]
 PublishDate = "2020-04-01"
 Date = "2020-04-14"
 episode = "0002"
-episode_image = "episode/0002/episode.jpg"
-# episode_banner = "episode/0002/episode.jpg"
+# wget -O content/episode/0002/youtube.jpg https://img.youtube.com/vi/PGT_gvnWRts/mqdefault.jpg
+episode_image = "episode/0002/youtube.jpg"
+episode_banner = "episode/0002/youtube.jpg"
 explicit = "no"
 # images = ["episode/0003/episode.jpg"]
 title = "Distributed Systems With Mark Heckler"

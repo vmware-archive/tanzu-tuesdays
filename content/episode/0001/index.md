@@ -7,8 +7,10 @@ guests = ["joshlong"]
 Date = "2020-04-07"
 PublishDate = "2020-04-07"
 episode = "0001"
-episode_image = "episode/0001/episode.jpg"
-episode_banner = "episode/0001/episode.jpg"
+# 320x180 for image / banner
+# wget -O content/episode/0001/youtube.jpg https://img.youtube.com/vi/DMBdPJNOpSk/mqdefault.jpg
+episode_image = "episode/0001/youtube.jpg"
+episode_banner = "episode/0001/youtube.jpg"
 explicit = "no"
 images = ["episode/0001/episode.jpg"]
 title = "Reactive Revolution with Josh Long"

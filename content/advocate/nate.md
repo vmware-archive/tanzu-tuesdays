@@ -1,5 +1,5 @@
 +++
-Title = "Nathaniel T. Schutta"
+Title = "Nate Schutta"
 Twitter = "ntschutta"
 Website = "http://www.ntschutta.io/"
 Type = "advocate"
