@@ -30,6 +30,16 @@
     </item>
     
     <item>
+      <title>Who are we?</title>
+      <link>https://vmware-tanzu.github.io/tanzu-tuesdays/who/</link>
+      <pubDate>Fri, 24 Apr 2020 10:13:28 -0500</pubDate>
+      
+      <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/who/</guid>
+      <description>The Technical Advocacy team serves as a public face for VMware Tanzu, are respected experts in the IT community, speak frequently, creates relevant content, and gives feedback on our customers, developers, ops people, etc.on the topics of: developers, operators, open source, digital transformation.
+We are  Experts in our field (DevOps, CF/PAS, Spring, DDD, Kubernetes, Architecture, Microservices, Containers, Java, Digital Transformation) Dedicated Open Source maintainers and contributors Respected inside and outside of VMware Experienced Conference Keynoters, and Presenters Kind of a big deal [just ask us], Popular on Social Media and the tech scene in general.</description>
+    </item>
+    
+    <item>
       <title>Unit Testing Done Right with Jakub Pilimon</title>
       <link>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0003/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
