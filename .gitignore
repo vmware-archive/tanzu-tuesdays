@@ -1,1 +1,9 @@
+# Hugo default output directory
+/public
+/resources
+
+# Node
+/node_modules
+
+## OS Files
 .DS_Store
