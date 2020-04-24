@@ -5,9 +5,9 @@ Twitter = "https://twitter.com/TashaIsenberg"
 Website = ""
 GitHub = ""
 # 250x250
-Thumbnail = "img/advocate/new.png"
+Thumbnail = "img/advocate/tasha.jpg"
 Description = "Developer Advocacy Manager"
-Tags = ["Contact Tasha when you want to work with an advocate"]
+Tags = []
 +++
 
-Tasha is the manager for this rowdy crew of misfits.
+Tasha runs the Advocacy Team like a well oiled machine. [Contact](tisenberg@vmware.com) her to talk about having an advocate work with you.
