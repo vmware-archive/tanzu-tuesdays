@@ -61,6 +61,11 @@
   </url>
   
   <url>
+    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/architecture/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/advocate/bob/</loc>
   </url>
   
@@ -71,6 +76,11 @@
   
   <url>
     <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/advocate/cora/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/domain-driven-design/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -103,6 +113,11 @@
   </url>
   
   <url>
+    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/refactoring/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/spring/</loc>
     <priority>0</priority>
   </url>
@@ -118,6 +133,11 @@
   
   <url>
     <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/advocate/tiffany/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/unit-testing/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

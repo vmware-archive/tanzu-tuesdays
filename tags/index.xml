@@ -11,6 +11,24 @@
     
     
     <item>
+      <title>Architecture</title>
+      <link>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain-Driven Design</title>
+      <link>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/domain-driven-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/domain-driven-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kubernetes</title>
       <link>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/kubernetes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -20,11 +38,29 @@
     </item>
     
     <item>
+      <title>Refactoring</title>
+      <link>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/refactoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/refactoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Spring</title>
       <link>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/spring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unit Testing</title>
+      <link>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/unit-testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/unit-testing/</guid>
       <description></description>
     </item>
     
