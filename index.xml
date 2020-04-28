@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>VMware Tanzu - Developer Advocates</title>
-    <link>https://makejarnotwar.com/</link>
+    <link>https://www.makejarnotwar.com/</link>
     <description>Recent content on VMware Tanzu - Developer Advocates</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://makejarnotwar.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.makejarnotwar.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Let&#39;s build a Helm Chart with Paul Czarkowski</title>
-      <link>https://makejarnotwar.com/episode/0005/</link>
+      <link>https://www.makejarnotwar.com/episode/0005/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://makejarnotwar.com/episode/0005/</guid>
+      <guid>https://www.makejarnotwar.com/episode/0005/</guid>
       <description>Rather than a set of slides, this will be a live mob programming exercise where we will develop several helm charts from scratch to deploy to a fresh kubernetes cluster. By the end of the session we’ll not only have learned how to write a helm chart, but also how to upload and share them via a chart repository and will explore other tools in the ecosystem as time permits.</description>
     </item>
     
     <item>
       <title>The Practical Architect with Nate Schutta</title>
-      <link>https://makejarnotwar.com/episode/0004/</link>
+      <link>https://www.makejarnotwar.com/episode/0004/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://makejarnotwar.com/episode/0004/</guid>
+      <guid>https://www.makejarnotwar.com/episode/0004/</guid>
       <description>Rich Hickey once said programmers know the benefits of everything and the trade offs of nothing…an approach that can lead a project down a path of frustrated developers and unhappy customers. As architects though, we must consider the trade offs of every new library, language, pattern or approach and quickly make decisions often with incomplete information. How should we think about the inevitable technology choices we have to make on a project?</description>
     </item>
     
     <item>
       <title>Who are we?</title>
-      <link>https://makejarnotwar.com/who/</link>
+      <link>https://www.makejarnotwar.com/who/</link>
       <pubDate>Fri, 24 Apr 2020 10:13:28 -0500</pubDate>
       
-      <guid>https://makejarnotwar.com/who/</guid>
+      <guid>https://www.makejarnotwar.com/who/</guid>
       <description>The Technical Advocacy team serves as a public face for VMware Tanzu, are respected experts in the IT community, speak frequently, creates relevant content, and gives feedback on our customers, developers, ops people, etc.on the topics of: developers, operators, open source, digital transformation.
 We are  Experts in our field (DevOps, CF/PAS, Spring, DDD, Kubernetes, Architecture, Microservices, Containers, Java, Digital Transformation) Dedicated Open Source maintainers and contributors Respected inside and outside of VMware Experienced Conference Keynoters, and Presenters Kind of a big deal [just ask us], Popular on Social Media and the tech scene in general.</description>
     </item>
     
     <item>
       <title>Unit Testing Done Right with Jakub Pilimon</title>
-      <link>https://makejarnotwar.com/episode/0003/</link>
+      <link>https://www.makejarnotwar.com/episode/0003/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://makejarnotwar.com/episode/0003/</guid>
+      <guid>https://www.makejarnotwar.com/episode/0003/</guid>
       <description>“TDD leads to a great design,” they said. “Mocking is bad,” they said. “Integration testing is slow,” they said. “Testable architecture to the rescue,” they said. “If you don’t test, don’t call yourself a developer,” they said. “Code coverage must be 100%,” they said. And so on and so forth.
 In this talk, we&amp;rsquo;ll tackle some of the testing gotchas. There will be live coding, architecture rants, some slides and (hopefully) much fun.</description>
     </item>
     
     <item>
       <title>Distributed Systems With Mark Heckler</title>
-      <link>https://makejarnotwar.com/episode/0002/</link>
+      <link>https://www.makejarnotwar.com/episode/0002/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://makejarnotwar.com/episode/0002/</guid>
+      <guid>https://www.makejarnotwar.com/episode/0002/</guid>
       <description>Have you ever watched Bob Ross start with a blank canvas at the beginning of an episode and wondered how he ended the show with all of those happy little trees? You are not alone.
 This session is a guided, live-coding tour of select Spring technologies with an eye toward production: Spring Boot, database access, Java, Kotlin, REST APIs, template engines, imperative, reactive&amp;hellip;so many brushes to choose and use!
 This session will be a guided tour of several key Spring technologies with the goal of exploring and understanding how they fit together, pros and cons, and options you have at hand to deliver robust production systems.</description>
@@ -62,113 +62,113 @@ This session will be a guided tour of several key Spring technologies with the g
     
     <item>
       <title>How to Schedule a new Tanzu Tuesdays Episode</title>
-      <link>https://makejarnotwar.com/docs/schedule-an-episode/</link>
+      <link>https://www.makejarnotwar.com/docs/schedule-an-episode/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://makejarnotwar.com/docs/schedule-an-episode/</guid>
+      <guid>https://www.makejarnotwar.com/docs/schedule-an-episode/</guid>
       <description>Welcome! If you&amp;rsquo;re here, it means you&amp;rsquo;re a willing participant in this zany thing we call Tanzu Tuesdays. You&amp;rsquo;re probably here to help keep things running smoothly, or perhaps you want to star in your very own episode. Stay tuned and let&amp;rsquo;s talk through scheduling an Episode.
 Note: This is not set in stone, if you have a better way to do this, we&amp;rsquo;re all ears. Just trying to keep things simple and all in one place.</description>
     </item>
     
     <item>
       <title>Reactive Revolution with Josh Long</title>
-      <link>https://makejarnotwar.com/episode/0001/</link>
+      <link>https://www.makejarnotwar.com/episode/0001/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://makejarnotwar.com/episode/0001/</guid>
+      <guid>https://www.makejarnotwar.com/episode/0001/</guid>
       <description>Microservices and big-data increasingly confront us with the limitations of traditional input/output. In traditional IO, work that is IO-bound dominates threads. This wouldn’t be such a big deal if we could add more threads cheaply, but threads are expensive on the JVM, and most other platforms. Even if threads were cheap and infinitely scalable, we’d still be confronted with the faulty nature of networks. Things break, and they often do so in subtle, but non-exceptional ways.</description>
     </item>
     
     <item>
       <title>Bob Brindley</title>
-      <link>https://makejarnotwar.com/advocate/bob/</link>
+      <link>https://www.makejarnotwar.com/advocate/bob/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://makejarnotwar.com/advocate/bob/</guid>
+      <guid>https://www.makejarnotwar.com/advocate/bob/</guid>
       <description>Bob Brindley travels the world spreading the good word according to Tanzu and Spring to any and all that will hear.
 He has been a developer advocate for 5 years and still smells terrific.</description>
     </item>
     
     <item>
       <title>Cora Iberkleid</title>
-      <link>https://makejarnotwar.com/advocate/cora/</link>
+      <link>https://www.makejarnotwar.com/advocate/cora/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://makejarnotwar.com/advocate/cora/</guid>
+      <guid>https://www.makejarnotwar.com/advocate/cora/</guid>
       <description>Cora Iberkleid is an Advisory Cloud Application and Platform Architect at VMware, where she helps enterprises leverage modern technologies like Spring Boot, Spring Cloud, and Cloud Foundry in order to deliver better quality software faster. Prior to joining VMware, she spent nearly a decade designing and building enterprise integration applications as part of the Professional Services organizations at Sun Microsystems and Oracle. She has previously spoken at SpringOne Platform, SpringOne Tour, SpringConnect, deliver:Agile, Cloud Native New York and New York City Spring User Group.</description>
     </item>
     
     <item>
       <title>Jakub Pilimon</title>
-      <link>https://makejarnotwar.com/advocate/jakub/</link>
+      <link>https://www.makejarnotwar.com/advocate/jakub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://makejarnotwar.com/advocate/jakub/</guid>
+      <guid>https://www.makejarnotwar.com/advocate/jakub/</guid>
       <description>Jakub is a Developer Advocate at VMware, blogger, programmer, and trainer. He loves to tackle complex enterprises with Domain-Driven Design, Test-Driven Development and Spring. Architecture is a main area of interest, too. When he doesn&amp;rsquo;t program, he rides motorbikes, skis or practices kitesurfing.
 He writes a DZone MVB awarded blog and his pet projects can be found at https://github.com/ddd-by-examples.</description>
     </item>
     
     <item>
       <title>Josh Long</title>
-      <link>https://makejarnotwar.com/advocate/joshlong/</link>
+      <link>https://www.makejarnotwar.com/advocate/joshlong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://makejarnotwar.com/advocate/joshlong/</guid>
+      <guid>https://www.makejarnotwar.com/advocate/joshlong/</guid>
       <description>Josh (@starbuxman) has (officially) been a Spring Developer Advocate since 2010. Josh is a Java Champion, author of 6 books (including O’Reilly’s Cloud Native Java: Designing Resilient Systems with Spring Boot and the upcoming Reactive Spring) and numerous best-selling video trainings (including Building Microservices with Spring Boot Livelessons with Spring Boot co-founder Phil Webb), and an open-source contributor (Spring Boot, Spring Integration, Spring Cloud, Activiti and Vaadin), a podcaster (A Bootiful Podcast) and a screencaster.</description>
     </item>
     
     <item>
       <title>Mario Gray</title>
-      <link>https://makejarnotwar.com/advocate/mario/</link>
+      <link>https://www.makejarnotwar.com/advocate/mario/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://makejarnotwar.com/advocate/mario/</guid>
+      <guid>https://www.makejarnotwar.com/advocate/mario/</guid>
       <description>Mr. Gray is a Principal Technologist at VMWare with over 20 years of experience in software development, software architecture. He is co-author of Apress’s Pro Spring Integration. He’s helped organizations large and small build service-based architectures in a number of different runtimes and platforms over the decades, but adopting Spring in 2004, and using it whenever possible since, was a no-brainer that culminated in joining the Spring team in 2017. As a Spring Developer Advocate, Mario loves to engage and inspire developers and businesses in the Pivotal ecosystem.</description>
     </item>
     
     <item>
       <title>Mark Heckler</title>
-      <link>https://makejarnotwar.com/advocate/mheckler/</link>
+      <link>https://www.makejarnotwar.com/advocate/mheckler/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://makejarnotwar.com/advocate/mheckler/</guid>
+      <guid>https://www.makejarnotwar.com/advocate/mheckler/</guid>
       <description>Mark Heckler is a software developer &amp;amp; Spring Developer Advocate at VMware, conference speaker, published author, &amp;amp; Java Champion focusing upon developing innovative production-ready software at velocity for the cloud.
 He has worked with key players in the manufacturing, retail, medical, scientific, telecom, and financial industries and various public sector organizations to develop and deliver critical capabilities on time and on budget. Mark is an open source contributor and author/curator of a developer-focused blog and an occasionally interesting Twitter account.</description>
     </item>
     
     <item>
       <title>Nate Schutta</title>
-      <link>https://makejarnotwar.com/advocate/nate/</link>
+      <link>https://www.makejarnotwar.com/advocate/nate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://makejarnotwar.com/advocate/nate/</guid>
+      <guid>https://www.makejarnotwar.com/advocate/nate/</guid>
       <description>Nathaniel T. Schutta is a software architect focused on cloud computing and building usable applications. A proponent of polyglot programming, Nate has written multiple books and appeared in various videos. Nate is a seasoned speaker regularly presenting at conferences worldwide, No Fluff Just Stuff symposia, meetups, universities, and user groups. In addition to his day job, Nate is an adjunct professor at the University of Minnesota where he teaches students to embrace (and evaluate) technical change.</description>
     </item>
     
     <item>
       <title>Paul Czarkowski</title>
-      <link>https://makejarnotwar.com/advocate/paulczar/</link>
+      <link>https://www.makejarnotwar.com/advocate/paulczar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://makejarnotwar.com/advocate/paulczar/</guid>
+      <guid>https://www.makejarnotwar.com/advocate/paulczar/</guid>
       <description>Paul Czarkowski is a long time practitioner of the dark arts of Devops. Hailing from Australia he moved to Austin Texas to help build and run one of the largest and most successful online games. Now at VMWare, Paul works to improve the Operator experience by taking Cloud Native software development concepts and applying them to Operations to create platforms that reduce toil and improve software delivery.</description>
     </item>
     
     <item>
       <title>Tasha Isenberg</title>
-      <link>https://makejarnotwar.com/advocate/tasha/</link>
+      <link>https://www.makejarnotwar.com/advocate/tasha/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://makejarnotwar.com/advocate/tasha/</guid>
+      <guid>https://www.makejarnotwar.com/advocate/tasha/</guid>
       <description>Tasha runs the Advocacy Team like a well oiled machine. Contact her to talk about having an advocate work with you.</description>
     </item>
     
     <item>
       <title>Tiffany Jernigan</title>
-      <link>https://makejarnotwar.com/advocate/tiffany/</link>
+      <link>https://www.makejarnotwar.com/advocate/tiffany/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://makejarnotwar.com/advocate/tiffany/</guid>
+      <guid>https://www.makejarnotwar.com/advocate/tiffany/</guid>
       <description>Tiffany is a senior developer advocate at VMware and is focused on the realm of Kubernetes. She mostly recently was working as a software developer and developer advocate (nerd whisperer) for containers at Amazon. She also formerly worked at Docker and Intel. Prior to that, she graduated from Georgia Tech with a degree in electrical engineering. In her free time she likes to spend time with her fiancé, family, and friends as well as dabble in photography.</description>
     </item>
     
