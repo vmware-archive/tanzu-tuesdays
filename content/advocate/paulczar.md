@@ -21,15 +21,9 @@ Paul will talk through how Kubernetes enables a new Cloud Native way of operatin
 
 {{< youtube oYcGzEo15n4 >}}
 
-#### Hacking Helm
-
-Helm is the best way to build, package, and run Kubernetes manifests. However it has been considered by some as a fairly insecure way to deploy software, mostly due to its server component Tiller. Let’s put that to the test and hack (and then protect from those hacks) Helm.
-
-{{< youtube QL-OztkJ4V8 >}}
-
 ## What can he do for you ?
 
-Paul can talk to you on the following topics, both from VMware Product, and Opensource/Community perspectives:
+Paul can speak or host workshops on the following topics, both from VMware Product, and Opensource/Community perspectives:
 
 * Kubernetes
 * Helm
@@ -38,3 +32,9 @@ Paul can talk to you on the following topics, both from VMware Product, and Open
 * Harbor
 * CI/CD Pipelines
 * *and Pretty much anything else Kubernetes/DevOps related.*
+
+#### Hacking Helm
+
+Helm is the best way to build, package, and run Kubernetes manifests. However it has been considered by some as a fairly insecure way to deploy software, mostly due to its server component Tiller. Let’s put that to the test and hack (and then protect from those hacks) Helm.
+
+{{< youtube QL-OztkJ4V8 >}}
