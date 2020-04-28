@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevOps on VMware Tanzu - Developer Advocates</title>
+    <link>https://makejarnotwar.com/tags/devops/</link>
+    <description>Recent content in DevOps on VMware Tanzu - Developer Advocates</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://makejarnotwar.com/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Paul Czarkowski</title>
+      <link>https://makejarnotwar.com/advocate/paulczar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://makejarnotwar.com/advocate/paulczar/</guid>
+      <description>Paul Czarkowski is a long time practitioner of the dark arts of Devops. Hailing from Australia he moved to Austin Texas to help build and run one of the largest and most successful online games. Now at VMWare, Paul works to improve the Operator experience by taking Cloud Native software development concepts and applying them to Operations to create platforms that reduce toil and improve software delivery.</description>
+    </item>
+    
+  </channel>
+</rss>

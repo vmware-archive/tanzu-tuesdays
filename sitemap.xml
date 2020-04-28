@@ -3,140 +3,145 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/</loc>
+    <loc>https://makejarnotwar.com/episode/</loc>
     <lastmod>2020-05-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0005/</loc>
+    <loc>https://makejarnotwar.com/episode/0005/</loc>
     <lastmod>2020-05-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/</loc>
+    <loc>https://makejarnotwar.com/</loc>
     <lastmod>2020-05-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0004/</loc>
+    <loc>https://makejarnotwar.com/episode/0004/</loc>
     <lastmod>2020-04-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/who/</loc>
+    <loc>https://makejarnotwar.com/who/</loc>
     <lastmod>2020-04-24T10:13:28-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0003/</loc>
+    <loc>https://makejarnotwar.com/episode/0003/</loc>
     <lastmod>2020-04-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0002/</loc>
+    <loc>https://makejarnotwar.com/episode/0002/</loc>
     <lastmod>2020-04-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/docs/</loc>
+    <loc>https://makejarnotwar.com/docs/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/docs/schedule-an-episode/</loc>
+    <loc>https://makejarnotwar.com/docs/schedule-an-episode/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/episode/0001/</loc>
+    <loc>https://makejarnotwar.com/episode/0001/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/advocate/</loc>
+    <loc>https://makejarnotwar.com/advocate/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/architecture/</loc>
+    <loc>https://makejarnotwar.com/tags/architecture/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/advocate/bob/</loc>
+    <loc>https://makejarnotwar.com/advocate/bob/</loc>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/categories/</loc>
+    <loc>https://makejarnotwar.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/advocate/cora/</loc>
+    <loc>https://makejarnotwar.com/advocate/cora/</loc>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/domain-driven-design/</loc>
+    <loc>https://makejarnotwar.com/tags/devops/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/advocate/jakub/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/advocate/joshlong/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/kubernetes/</loc>
+    <loc>https://makejarnotwar.com/tags/domain-driven-design/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/advocate/mario/</loc>
+    <loc>https://makejarnotwar.com/advocate/jakub/</loc>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/advocate/mheckler/</loc>
+    <loc>https://makejarnotwar.com/advocate/joshlong/</loc>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/advocate/nate/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/advocate/paulczar/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/refactoring/</loc>
+    <loc>https://makejarnotwar.com/tags/kubernetes/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/spring/</loc>
+    <loc>https://makejarnotwar.com/advocate/mario/</loc>
+  </url>
+  
+  <url>
+    <loc>https://makejarnotwar.com/advocate/mheckler/</loc>
+  </url>
+  
+  <url>
+    <loc>https://makejarnotwar.com/advocate/nate/</loc>
+  </url>
+  
+  <url>
+    <loc>https://makejarnotwar.com/advocate/paulczar/</loc>
+  </url>
+  
+  <url>
+    <loc>https://makejarnotwar.com/tags/refactoring/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/</loc>
+    <loc>https://makejarnotwar.com/tags/spring/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/advocate/tasha/</loc>
+    <loc>https://makejarnotwar.com/tags/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/advocate/tiffany/</loc>
+    <loc>https://makejarnotwar.com/advocate/tasha/</loc>
   </url>
   
   <url>
-    <loc>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/unit-testing/</loc>
+    <loc>https://makejarnotwar.com/advocate/tiffany/</loc>
+  </url>
+  
+  <url>
+    <loc>https://makejarnotwar.com/tags/unit-testing/</loc>
     <priority>0</priority>
   </url>
   

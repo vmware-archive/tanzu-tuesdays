@@ -2,65 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on VMware Tanzu - Developer Advocates</title>
-    <link>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/</link>
+    <link>https://makejarnotwar.com/tags/</link>
     <description>Recent content in Tags on VMware Tanzu - Developer Advocates</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://vmware-tanzu.github.io/tanzu-tuesdays/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://makejarnotwar.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Architecture</title>
-      <link>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/architecture/</link>
+      <link>https://makejarnotwar.com/tags/architecture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/architecture/</guid>
+      <guid>https://makejarnotwar.com/tags/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://makejarnotwar.com/tags/devops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://makejarnotwar.com/tags/devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Domain-Driven Design</title>
-      <link>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/domain-driven-design/</link>
+      <link>https://makejarnotwar.com/tags/domain-driven-design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/domain-driven-design/</guid>
+      <guid>https://makejarnotwar.com/tags/domain-driven-design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kubernetes</title>
-      <link>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/kubernetes/</link>
+      <link>https://makejarnotwar.com/tags/kubernetes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/kubernetes/</guid>
+      <guid>https://makejarnotwar.com/tags/kubernetes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Refactoring</title>
-      <link>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/refactoring/</link>
+      <link>https://makejarnotwar.com/tags/refactoring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/refactoring/</guid>
+      <guid>https://makejarnotwar.com/tags/refactoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spring</title>
-      <link>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/spring/</link>
+      <link>https://makejarnotwar.com/tags/spring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/spring/</guid>
+      <guid>https://makejarnotwar.com/tags/spring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unit Testing</title>
-      <link>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/unit-testing/</link>
+      <link>https://makejarnotwar.com/tags/unit-testing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/tags/unit-testing/</guid>
+      <guid>https://makejarnotwar.com/tags/unit-testing/</guid>
       <description></description>
     </item>
     
