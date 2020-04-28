@@ -16,8 +16,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.makejarnotwar.com/advocate/bob/</guid>
-      <description>Bob Brindley travels the world spreading the good word according to Tanzu and Spring to any and all that will hear.
-He has been a developer advocate for 5 years and still smells terrific.</description>
+      <description>&lt;p&gt;Bob Brindley travels the world spreading the good word according to Tanzu and Spring to any and all that will hear.&lt;/p&gt;
+
+&lt;p&gt;He has been a developer advocate for 5 years and still smells terrific.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -26,7 +27,7 @@ He has been a developer advocate for 5 years and still smells terrific.</descrip
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.makejarnotwar.com/advocate/cora/</guid>
-      <description>Cora Iberkleid is an Advisory Cloud Application and Platform Architect at VMware, where she helps enterprises leverage modern technologies like Spring Boot, Spring Cloud, and Cloud Foundry in order to deliver better quality software faster. Prior to joining VMware, she spent nearly a decade designing and building enterprise integration applications as part of the Professional Services organizations at Sun Microsystems and Oracle. She has previously spoken at SpringOne Platform, SpringOne Tour, SpringConnect, deliver:Agile, Cloud Native New York and New York City Spring User Group.</description>
+      <description>&lt;p&gt;Cora Iberkleid is an Advisory Cloud Application and Platform Architect at VMware, where she helps enterprises leverage modern technologies like Spring Boot, Spring Cloud, and Cloud Foundry in order to deliver better quality software faster. Prior to joining VMware, she spent nearly a decade designing and building enterprise integration applications as part of the Professional Services organizations at Sun Microsystems and Oracle. She has previously spoken at SpringOne Platform, SpringOne Tour, SpringConnect, deliver:Agile, Cloud Native New York and New York City Spring User Group.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -35,8 +36,9 @@ He has been a developer advocate for 5 years and still smells terrific.</descrip
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.makejarnotwar.com/advocate/jakub/</guid>
-      <description>Jakub is a Developer Advocate at VMware, blogger, programmer, and trainer. He loves to tackle complex enterprises with Domain-Driven Design, Test-Driven Development and Spring. Architecture is a main area of interest, too. When he doesn&amp;rsquo;t program, he rides motorbikes, skis or practices kitesurfing.
-He writes a DZone MVB awarded blog and his pet projects can be found at https://github.com/ddd-by-examples.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://twitter.com/JakubPilimon&#34;&gt;Jakub&lt;/a&gt; is a Developer Advocate at &lt;a href=&#34;https://vmware.com&#34;&gt;VMware&lt;/a&gt;, blogger, programmer, and trainer. He loves to tackle complex enterprises with Domain-Driven Design, Test-Driven Development and Spring. Architecture is a main area of interest, too. When he doesn&amp;rsquo;t program, he rides motorbikes, skis or practices kitesurfing.&lt;/p&gt;
+
+&lt;p&gt;He writes a &lt;a href=&#34;https://pillopl.github.io&#34;&gt;DZone MVB awarded blog&lt;/a&gt; and his pet projects can be found at &lt;a href=&#34;https://github.com/ddd-by-examples&#34;&gt;https://github.com/ddd-by-examples&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -45,7 +47,7 @@ He writes a DZone MVB awarded blog and his pet projects can be found at https://
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.makejarnotwar.com/advocate/joshlong/</guid>
-      <description>Josh (@starbuxman) has (officially) been a Spring Developer Advocate since 2010. Josh is a Java Champion, author of 6 books (including O’Reilly’s Cloud Native Java: Designing Resilient Systems with Spring Boot and the upcoming Reactive Spring) and numerous best-selling video trainings (including Building Microservices with Spring Boot Livelessons with Spring Boot co-founder Phil Webb), and an open-source contributor (Spring Boot, Spring Integration, Spring Cloud, Activiti and Vaadin), a podcaster (A Bootiful Podcast) and a screencaster.</description>
+      <description>&lt;p&gt;Josh (&lt;a href=&#34;https://twitter.com/starbuxman&#34;&gt;@starbuxman&lt;/a&gt;) has (officially) been a Spring Developer Advocate since 2010. Josh is a Java Champion, author of 6 books (including O’Reilly’s &lt;a href=&#34;https://www.amazon.com/Cloud-Native-Java-Designing-Resilient/dp/1449374646, Spring Cloud, and Cloud Foundry&#34;&gt;Cloud Native Java: Designing Resilient Systems with Spring Boot&lt;/a&gt; and the upcoming &lt;a href=&#34;http://reactivespring.io/&#34;&gt;Reactive Spring&lt;/a&gt;) and numerous best-selling video trainings (including &lt;a href=&#34;https://www.safaribooksonline.com/library/view/building-microservices-with/9780134192468/&#34;&gt;Building Microservices with Spring Boot Livelessons&lt;/a&gt; with Spring Boot co-founder Phil Webb), and an open-source contributor (Spring Boot, Spring Integration, Spring Cloud, Activiti and Vaadin), &lt;a href=&#34;http://bit.ly/a-bootiful-podcast&#34;&gt;a podcaster (A Bootiful Podcast)&lt;/a&gt; and a &lt;a href=&#34;http://bit.ly/spring-tips-playlist&#34;&gt;screencaster&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -54,7 +56,7 @@ He writes a DZone MVB awarded blog and his pet projects can be found at https://
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.makejarnotwar.com/advocate/mario/</guid>
-      <description>Mr. Gray is a Principal Technologist at VMWare with over 20 years of experience in software development, software architecture. He is co-author of Apress’s Pro Spring Integration. He’s helped organizations large and small build service-based architectures in a number of different runtimes and platforms over the decades, but adopting Spring in 2004, and using it whenever possible since, was a no-brainer that culminated in joining the Spring team in 2017. As a Spring Developer Advocate, Mario loves to engage and inspire developers and businesses in the Pivotal ecosystem.</description>
+      <description>&lt;p&gt;Mr. Gray is a Principal Technologist at VMWare with over 20 years of experience in software development, software architecture. He is co-author of Apress’s Pro Spring Integration. He’s helped organizations large and small build service-based architectures in a number of different runtimes and platforms over the decades, but adopting Spring in 2004, and using it whenever possible since, was a no-brainer that culminated in joining the Spring team in 2017. As a Spring Developer Advocate, Mario loves to engage and inspire developers and businesses in the Pivotal ecosystem.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -63,8 +65,9 @@ He writes a DZone MVB awarded blog and his pet projects can be found at https://
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.makejarnotwar.com/advocate/mheckler/</guid>
-      <description>Mark Heckler is a software developer &amp;amp; Spring Developer Advocate at VMware, conference speaker, published author, &amp;amp; Java Champion focusing upon developing innovative production-ready software at velocity for the cloud.
-He has worked with key players in the manufacturing, retail, medical, scientific, telecom, and financial industries and various public sector organizations to develop and deliver critical capabilities on time and on budget. Mark is an open source contributor and author/curator of a developer-focused blog and an occasionally interesting Twitter account.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://thehecklers.com/&#34;&gt;Mark Heckler&lt;/a&gt; is a software developer &amp;amp; Spring Developer Advocate at VMware, conference speaker, published author, &amp;amp; Java Champion focusing upon developing innovative production-ready software at velocity for the cloud.&lt;/p&gt;
+
+&lt;p&gt;He has worked with key players in the manufacturing, retail, medical, scientific, telecom, and financial industries and various public sector organizations to develop and deliver critical capabilities on time and on budget. Mark is an open source contributor and author/curator of a developer-focused &lt;a href=&#34;https://www.thehecklers.com&#34;&gt;blog&lt;/a&gt; and an occasionally interesting &lt;a href=&#34;https://twitter.com/mkheck&#34;&gt;Twitter account&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -73,7 +76,7 @@ He has worked with key players in the manufacturing, retail, medical, scientific
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.makejarnotwar.com/advocate/nate/</guid>
-      <description>Nathaniel T. Schutta is a software architect focused on cloud computing and building usable applications. A proponent of polyglot programming, Nate has written multiple books and appeared in various videos. Nate is a seasoned speaker regularly presenting at conferences worldwide, No Fluff Just Stuff symposia, meetups, universities, and user groups. In addition to his day job, Nate is an adjunct professor at the University of Minnesota where he teaches students to embrace (and evaluate) technical change.</description>
+      <description>&lt;p&gt;Nathaniel T. Schutta is a software architect focused on cloud computing and building usable applications. A proponent of polyglot programming, Nate has written multiple books and appeared in various videos. Nate is a seasoned speaker regularly presenting at conferences worldwide, No Fluff Just Stuff symposia, meetups, universities, and user groups. In addition to his day job, Nate is an adjunct professor at the University of Minnesota where he teaches students to embrace (and evaluate) technical change. Driven to rid the world of bad presentations, Nate coauthored the book Presentation Patterns with Neal Ford and Matthew McCullough. Nate recently published Thinking Architecturally available as a free download from VMware.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -82,7 +85,7 @@ He has worked with key players in the manufacturing, retail, medical, scientific
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.makejarnotwar.com/advocate/paulczar/</guid>
-      <description>Who am I ? Paul Czarkowski is a long time practitioner of the dark arts of Devops. Hailing from Australia he moved to Austin Texas to help build and run one of the largest and most successful online games. Now at VMWare, Paul works to improve the Operator experience by taking Cloud Native software development concepts and applying them to Operations to create platforms that reduce toil and improve software delivery.</description>
+      <description>&lt;p&gt;Paul Czarkowski is a long time practitioner of the dark arts of Devops. Hailing from Australia he moved to Austin Texas to help build and run one of the largest and most successful online games. Now at VMWare, Paul works to improve the Operator experience by taking Cloud Native software development concepts and applying them to Operations to create platforms that reduce toil and improve software delivery.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -91,7 +94,7 @@ He has worked with key players in the manufacturing, retail, medical, scientific
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.makejarnotwar.com/advocate/tasha/</guid>
-      <description>Tasha runs the Advocacy Team like a well oiled machine. Contact her to talk about having an advocate work with you.</description>
+      <description>&lt;p&gt;Tasha runs the Advocacy Team like a well oiled machine. &lt;a href=&#34;mailto:tisenberg@vmware.com&#34;&gt;Contact&lt;/a&gt; her to talk about having an advocate work with you.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -100,7 +103,7 @@ He has worked with key players in the manufacturing, retail, medical, scientific
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.makejarnotwar.com/advocate/tiffany/</guid>
-      <description>Tiffany is a senior developer advocate at VMware and is focused on the realm of Kubernetes. She mostly recently was working as a software developer and developer advocate (nerd whisperer) for containers at Amazon. She also formerly worked at Docker and Intel. Prior to that, she graduated from Georgia Tech with a degree in electrical engineering. In her free time she likes to spend time with her fiancé, family, and friends as well as dabble in photography.</description>
+      <description>&lt;p&gt;Tiffany is a senior developer advocate at VMware and is focused on the realm of Kubernetes. She mostly recently was working as a software developer and developer advocate (nerd whisperer) for containers at Amazon. She also formerly worked at Docker and Intel. Prior to that, she graduated from Georgia Tech with a degree in electrical engineering. In her free time she likes to spend time with her fiancé, family, and friends as well as dabble in photography. You can find her on twitter &lt;a href=&#34;https://twitter.com/tiffanyfayj&#34;&gt;@tiffanyfayj&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>
