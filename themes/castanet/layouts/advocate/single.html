@@ -69,13 +69,6 @@
         <div class = "row">
           <div class="col">
             {{ .Content  }}
-            {{ if .Params.Tags }}
-            <p>Expertise: 
-            {{ range .Params.Tags }}
-            <i>{{ . }}</i>&nbsp;
-            {{ end }}
-            {{ end }}
-            </p>
           </div>
         </div>
       </div>
