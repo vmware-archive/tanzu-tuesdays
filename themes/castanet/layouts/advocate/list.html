@@ -14,7 +14,8 @@
 {{- else }}
 <br><br>
 {{- end -}}
-<div class = "row">
+<div clas = "row">
+  <div class = "col">
 
     {{ $paginator := .Paginate (where .Data.Pages "Type" "advocate") }}
     {{ range $paginator.Pages }}
@@ -38,7 +39,7 @@
 
             <p>{{ .Params.Description }}</p>
             {{ if .Params.Tags }}
-            <p>Expertise:
+            <p style="overflow-wrap: break-word;word-wrap: break-word;">Expertise:
             {{ range .Params.Tags }}
             <i>{{ . }}</i>&nbsp;
             {{ end }}

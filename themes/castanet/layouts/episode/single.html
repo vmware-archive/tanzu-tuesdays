@@ -100,7 +100,7 @@
                   </div>
                   <div class="col-md-8">
                     <h2><a href = "{{(printf "%s/%s" .Params.Type .File.BaseFileName) | absURL }}">{{ .Title }}</a></h2>
-                    {{ .Content }}
+                    {{ .Summary | default .Content }}
                     {{- with .Params.Website -}}
                       <a href="{{ . }}">
                         <i class="fas fa-home fa-2x"></i>
@@ -214,7 +214,8 @@
             </div>
             <div class="col-md-8">
               <h2><a href = "{{(printf "%s/%s" .Params.Type .File.BaseFileName) | absURL }}">{{ .Title }}</a></h2>
-              {{ .Content }}
+              {{ .Summary | default .Content }}
+              <br>
               {{- with .Params.Website -}}
                 <a href="{{ . }}">
                   <i class="fas fa-home fa-2x"></i>

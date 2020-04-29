@@ -1,7 +1,8 @@
-baseURL = "https://vmware-tanzu.github.io/tanzu-tuesdays"
+baseURL = "https://www.makejarnotwar.com"
 languageCode = "en-us"
 title = "VMware Tanzu - Developer Advocates"
 theme = "castanet"
+googleAnalytics = "UA-164847279-1"
 
 # see https://github.com/mattstratton/castanet/blob/master/REFERENCE.md
 [params]
