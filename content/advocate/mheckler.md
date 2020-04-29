@@ -17,6 +17,8 @@ As an engineer and an MBA, Mark has worked with key players in the manufacturing
 
 ## Recent videos/resources
 
+Below are a few recent sessions Mark has delivered. For more options, please visit his [Current Abstracts repo on Github](https://github.com/mkheck/current-abstracts).
+
 ### Supercharge Application Security with Spring Security, OpenID Connect, & OAuth2
 
 Topics: Spring, Security, OpenID Connect, OAuth2
@@ -73,4 +75,5 @@ El ponente escribirá en código todos los ejemplos usando software de código a
 
 ### Spring Boot: Up & Running!
 
-Early access now available to link:https://learning.oreilly.com/library/view/spring-boot-up/9781492076971/[Spring Boot: Up & Running!], an O'Reilly book.
+Early access now available to [Spring Boot: Up & Running!](https://learning.oreilly.com/library/view/spring-boot-up/9781492076971/), an O'Reilly book.
+
