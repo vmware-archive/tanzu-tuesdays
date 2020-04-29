@@ -19,7 +19,6 @@ As an engineer and an MBA, Mark has worked with key players in the manufacturing
 
 Below are a few recent sessions Mark has delivered. For more options, please visit his [Current Abstracts repo on Github](https://github.com/mkheck/current-abstracts).
 
-
 ### Supercharge Application Security with Spring Security, OpenID Connect, & OAuth2
 
 Topics: Spring, Security, OpenID Connect, OAuth2
@@ -32,7 +31,6 @@ This session is a live-coding "lock it down" exploration of how to secure your a
 
 {{< youtube 8VJNjMD9TG8 >}}
 
-
 ### Game of Streams, extended edition (@ NYJAVASIG)
 
 Most mission-critical systems have distributed elements or are entirely distributed, resulting in a number of challenges: performance, scalability, reliability, resilience...the eight fallacies of distributed computing are alive and well!
@@ -40,7 +38,6 @@ Most mission-critical systems have distributed elements or are entirely distribu
 Messaging platforms are often used to solve these problems and increase the "ilities", but they don't come without a few complexities of their own. In this session, Mark explains not only how to use open source solutions like Spring Cloud Stream, RabbitMQ, & Apache Kafka to maximize your distributed systems' capabilities while minimizing complexity...but also how to *really* use them! There be dragons when dealing with messaging platforms, but Mark shows you several ways to tame and harness them for maximum fire, maximum altitude.  All examples coded *live & in real-time*.
 
 {{< youtube mmH4M6gS0pY >}}
-
 
 ### Building Reactive Pipelines: How to Go from Scalable Apps to (Ridiculously) Scalable Systems
 
@@ -57,7 +54,6 @@ In this session, Mark discusses and demonstrates:
 Mark codes all examples using 100% open-source software, live and in real time.
 
 {{< youtube 8VJNjMD9TG8 >}}
-
 
 ### Construyendo Pipelines Reactivos: Como ir de aplicaciones escalables a sistemas RIDICULAMENTE escalables
 
@@ -77,7 +73,7 @@ El ponente escribirá en código todos los ejemplos usando software de código a
 
 {{< youtube DfdlDuGONwk >}}
 
-
 ### Spring Boot: Up & Running!
 
 Early access now available to [Spring Boot: Up & Running!](https://learning.oreilly.com/library/view/spring-boot-up/9781492076971/), an O'Reilly book.
+

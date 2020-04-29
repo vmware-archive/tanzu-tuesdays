@@ -11,11 +11,12 @@ Draft = true
 Description = "Developer Advocate"
 Tags = ["Spring", "Kubernetes"]
 +++
-
+<!-- This section will be used as a bio across the whole site -->
 This new advocate needs to add a bio
 
 <!--more-->
 
+<!-- This section is only for the main advocate listing for each -->
 ## Highlights
 
 ## What can I do for you?
