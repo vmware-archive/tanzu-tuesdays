@@ -13,6 +13,8 @@ Tags = ["Spring", "RabbitMQ", "Kafka", "Reactive programming", "Kotlin", "Kubern
 
 As an engineer and an MBA, Mark has worked with key players in the manufacturing, retail, medical, scientific, telecom, and financial industries and various public sector organizations to develop and deliver critical capabilities on time and on budget. He is a committed open source contributor and author/curator of a developer-focused [blog](https://www.thehecklers.com) and an occasionally interesting [Twitter account](https://twitter.com/mkheck).
 
+<!--more-->
+
 ## Recent videos/resources
 
 ### Supercharge Application Security with Spring Security, OpenID Connect, & OAuth2
