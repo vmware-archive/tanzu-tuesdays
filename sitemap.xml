@@ -112,6 +112,16 @@
   </url>
   
   <url>
+    <loc>https://www.makejarnotwar.com/tags/kafka/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.makejarnotwar.com/tags/kotlin/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.makejarnotwar.com/tags/kubernetes/</loc>
     <priority>0</priority>
   </url>
@@ -135,6 +145,16 @@
   
   <url>
     <loc>https://www.makejarnotwar.com/advocate/paulczar/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.makejarnotwar.com/tags/rabbitmq/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.makejarnotwar.com/tags/reactive-programming/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
