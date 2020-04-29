@@ -75,6 +75,16 @@
   </url>
   
   <url>
+    <loc>https://www.makejarnotwar.com/tags/cloud-computing/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.makejarnotwar.com/tags/cloudfoundry/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.makejarnotwar.com/advocate/cora/</loc>
   </url>
   
@@ -85,6 +95,11 @@
   
   <url>
     <loc>https://www.makejarnotwar.com/tags/domain-driven-design/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.makejarnotwar.com/tags/eai/</loc>
     <priority>0</priority>
   </url>
   
@@ -107,6 +122,11 @@
   
   <url>
     <loc>https://www.makejarnotwar.com/advocate/mheckler/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.makejarnotwar.com/tags/microservices/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -142,6 +162,11 @@
   
   <url>
     <loc>https://www.makejarnotwar.com/tags/unit-testing/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.makejarnotwar.com/tags/yaml/</loc>
     <priority>0</priority>
   </url>
   

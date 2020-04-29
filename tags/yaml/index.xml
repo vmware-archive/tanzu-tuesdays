@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YAML on VMware Tanzu - Developer Advocates</title>
+    <link>https://www.makejarnotwar.com/tags/yaml/</link>
+    <description>Recent content in YAML on VMware Tanzu - Developer Advocates</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://www.makejarnotwar.com/tags/yaml/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Josh Long</title>
+      <link>https://www.makejarnotwar.com/advocate/joshlong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.makejarnotwar.com/advocate/joshlong/</guid>
+      <description>&lt;p&gt;Josh (&lt;a href=&#34;https://twitter.com/starbuxman&#34;&gt;@starbuxman&lt;/a&gt;) has (officially) been a Spring Developer Advocate since 2010. Josh is a Java Champion, author of 6 books (including O’Reilly’s &lt;a href=&#34;https://www.amazon.com/Cloud-Native-Java-Designing-Resilient/dp/1449374646, Spring Cloud, and Cloud Foundry&#34;&gt;Cloud Native Java: Designing Resilient Systems with Spring Boot&lt;/a&gt; and the upcoming &lt;a href=&#34;http://reactivespring.io/&#34;&gt;Reactive Spring&lt;/a&gt;) and numerous best-selling video trainings (including &lt;a href=&#34;https://www.safaribooksonline.com/library/view/building-microservices-with/9780134192468/&#34;&gt;Building Microservices with Spring Boot Livelessons&lt;/a&gt; with Spring Boot co-founder Phil Webb), and an open-source contributor (Spring Boot, Spring Integration, Spring Cloud, Activiti and Vaadin), &lt;a href=&#34;http://bit.ly/a-bootiful-podcast&#34;&gt;a podcaster (A Bootiful Podcast)&lt;/a&gt; and a &lt;a href=&#34;http://bit.ly/spring-tips-playlist&#34;&gt;screencaster&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
