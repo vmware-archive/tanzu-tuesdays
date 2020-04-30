@@ -9,7 +9,7 @@ Description = "Developer Advocate"
 Tags = ["Spring", "RabbitMQ", "Kafka", "Reactive programming", "Kotlin", "Kubernetes"]
 +++
 
-[Mark Heckler](https://thehecklers.com/) is a software developer & Spring Developer Advocate at VMware, conference speaker, published author, & Java Champion focusing upon developing innovative production-ready software at velocity for the cloud. His latest book, link:https://learning.oreilly.com/library/view/spring-boot-up/9781492076971/[Spring Boot: Up & Running!], is available for early access _now_ and is scheduled for publication August 2020.
+[Mark Heckler](https://thehecklers.com/) is a software developer & Spring Developer Advocate at VMware, conference speaker, published author, & Java Champion focusing upon developing innovative production-ready software at velocity for the cloud. His latest book, [Spring Boot: Up & Running!](https://learning.oreilly.com/library/view/spring-boot-up/9781492076971/), is available for early access _now_ and is scheduled for publication August 2020.
 
 As an engineer and an MBA, Mark has worked with key players in the manufacturing, retail, medical, scientific, telecom, and financial industries and various public sector organizations to develop and deliver critical capabilities on time and on budget. He is a committed open source contributor and author/curator of a developer-focused [blog](https://www.thehecklers.com) and an occasionally interesting [Twitter account](https://twitter.com/mkheck).
 
