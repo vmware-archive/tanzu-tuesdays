@@ -61,6 +61,11 @@
   </url>
   
   <url>
+    <loc>https://www.makejarnotwar.com/tags/architect-as-a-service/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.makejarnotwar.com/tags/architecture/</loc>
     <priority>0</priority>
   </url>
@@ -76,6 +81,11 @@
   
   <url>
     <loc>https://www.makejarnotwar.com/tags/cloud-computing/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.makejarnotwar.com/tags/cloud-native-computing/</loc>
     <priority>0</priority>
   </url>
   
@@ -182,6 +192,11 @@
   
   <url>
     <loc>https://www.makejarnotwar.com/tags/unit-testing/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.makejarnotwar.com/tags/usability/</loc>
     <priority>0</priority>
   </url>
   
