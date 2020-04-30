@@ -127,11 +127,6 @@
   </url>
   
   <url>
-    <loc>https://www.makejarnotwar.com/tags/kotlin/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.makejarnotwar.com/tags/kubernetes/</loc>
     <priority>0</priority>
   </url>
@@ -173,7 +168,22 @@
   </url>
   
   <url>
+    <loc>https://www.makejarnotwar.com/tags/security/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.makejarnotwar.com/tags/services/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.makejarnotwar.com/tags/spring/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.makejarnotwar.com/tags/tdd/</loc>
     <priority>0</priority>
   </url>
   
@@ -202,6 +212,16 @@
   
   <url>
     <loc>https://www.makejarnotwar.com/tags/yaml/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.makejarnotwar.com/tags/functional/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.makejarnotwar.com/tags/kotlin/</loc>
     <priority>0</priority>
   </url>
   

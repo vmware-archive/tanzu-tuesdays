@@ -92,15 +92,6 @@
     </item>
     
     <item>
-      <title>Kotlin</title>
-      <link>https://www.makejarnotwar.com/tags/kotlin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.makejarnotwar.com/tags/kotlin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kubernetes</title>
       <link>https://www.makejarnotwar.com/tags/kubernetes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -146,11 +137,38 @@
     </item>
     
     <item>
+      <title>Security</title>
+      <link>https://www.makejarnotwar.com/tags/security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.makejarnotwar.com/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>https://www.makejarnotwar.com/tags/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.makejarnotwar.com/tags/services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Spring</title>
       <link>https://www.makejarnotwar.com/tags/spring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.makejarnotwar.com/tags/spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TDD</title>
+      <link>https://www.makejarnotwar.com/tags/tdd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.makejarnotwar.com/tags/tdd/</guid>
       <description></description>
     </item>
     
@@ -178,6 +196,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.makejarnotwar.com/tags/yaml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>functional</title>
+      <link>https://www.makejarnotwar.com/tags/functional/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.makejarnotwar.com/tags/functional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kotlin</title>
+      <link>https://www.makejarnotwar.com/tags/kotlin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.makejarnotwar.com/tags/kotlin/</guid>
       <description></description>
     </item>
     

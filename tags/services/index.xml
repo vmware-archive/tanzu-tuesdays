@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on VMware Tanzu - Developer Advocates</title>
+    <link>https://www.makejarnotwar.com/tags/services/</link>
+    <description>Recent content in Services on VMware Tanzu - Developer Advocates</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://www.makejarnotwar.com/tags/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mario Gray</title>
+      <link>https://www.makejarnotwar.com/advocate/mario/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.makejarnotwar.com/advocate/mario/</guid>
+      <description>&lt;p&gt;Mr. Gray is a Principal Technologist at VMWare with over 20 years of experience in software development, software architecture. He is co-author of Apress’s Pro Spring Integration. He’s helped organizations large and small build service-based architectures in a number of different runtimes and platforms over the decades, but adopting Spring in 2004, and using it whenever possible since, was a no-brainer that culminated in joining the Spring team in 2017. As a Spring Developer Advocate, Mario loves to engage and inspire developers and businesses in the Pivotal ecosystem.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
