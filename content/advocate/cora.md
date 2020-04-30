@@ -5,7 +5,7 @@ Twitter = "ciberkleid"
 Website = ""
 GitHub = "ciberkleid"
 # 250x250
-Thumbnail = "img/advocate/cora.png"
+Thumbnail = "img/advocate/cora.jpg"
 Description = "Developer Advocate"
 Tags = ["Spring", "Kubernetes"]
 +++
