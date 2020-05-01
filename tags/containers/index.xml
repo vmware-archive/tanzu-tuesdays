@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Containers on VMware Tanzu - Developer Advocates</title>
+    <link>https://www.makejarnotwar.com/tags/containers/</link>
+    <description>Recent content in Containers on VMware Tanzu - Developer Advocates</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://www.makejarnotwar.com/tags/containers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tiffany Jernigan</title>
+      <link>https://www.makejarnotwar.com/advocate/tiffany/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.makejarnotwar.com/advocate/tiffany/</guid>
+      <description>Tiffany is a senior developer advocate at VMware and is focused on the realm of Kubernetes. She mostly recently was working as a software developer and developer advocate (nerd whisperer) for containers at Amazon. She also formerly worked at Docker and Intel. Prior to that, she graduated from Georgia Tech with a degree in electrical engineering. In her free time she likes to spend time with her fiancé, family, and friends as well as dabble in photography.</description>
+    </item>
+    
+  </channel>
+</rss>

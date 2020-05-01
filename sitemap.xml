@@ -95,6 +95,11 @@
   </url>
   
   <url>
+    <loc>https://www.makejarnotwar.com/tags/containers/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.makejarnotwar.com/advocate/cora/</loc>
   </url>
   
@@ -146,6 +151,11 @@
   
   <url>
     <loc>https://www.makejarnotwar.com/advocate/nate/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.makejarnotwar.com/tags/open-source/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
