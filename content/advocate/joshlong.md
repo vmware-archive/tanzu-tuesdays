@@ -16,5 +16,11 @@ Josh ([@starbuxman](https://twitter.com/starbuxman)) has (officially) been a Spr
 ## Live Performances 
 
 ## Podcast  
+<!-- START:PODCASTS -->
+
+<!-- STOP:PODCASTS -->
 
 ## Screencast
+<!-- START:SCREENCASTS-->
+
+<!-- STOP:SCREENCASTS -->
