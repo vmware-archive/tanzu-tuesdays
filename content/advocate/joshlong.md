@@ -12,10 +12,15 @@ Tags = ["Spring", "Microservices", "Kubernetes", "CloudFoundry", "EAI", "Cloud C
 
 Josh ([@starbuxman](https://twitter.com/starbuxman)) has (officially) been a Spring Developer Advocate since 2010. Josh is a Java Champion, author of 6 books (including O’Reilly’s [Cloud Native Java: Designing Resilient Systems with Spring Boot](https://www.amazon.com/Cloud-Native-Java-Designing-Resilient/dp/1449374646, Spring Cloud, and Cloud Foundry) and the upcoming [Reactive Spring](http://reactivespring.io/)) and numerous best-selling video trainings (including [Building Microservices with Spring Boot Livelessons](https://www.safaribooksonline.com/library/view/building-microservices-with/9780134192468/) with Spring Boot co-founder Phil Webb), and an open-source contributor (Spring Boot, Spring Integration, Spring Cloud, Activiti and Vaadin), [a podcaster (A Bootiful Podcast)](http://bit.ly/a-bootiful-podcast) and a [screencaster](http://bit.ly/spring-tips-playlist).
 
+<!--more-->
+
 
 ## Live Performances 
 
 ## Podcast  
+
+I run a podcast [called _A Bootiful Podcast_](http://bootifulpodcast.fm). It's also [on Twitter (@BootifulPodcast)](http://twitter.com/BootifulPodcast). Here are the episodes.
+
 <!-- START:PODCASTS -->
 
 * [Adrian Cole, founder or co-founder of Feign, JClouds, and Spring Cloud Sleuth and major contributor to OpenZipkin]((2020-04-30T00:00:00) https://bootiful-podcast-api.cfapps.io/podcasts/ee343a8d-368e-4711-8f9c-4b571fa7a8e4/produced-audio) 
@@ -92,6 +97,9 @@ Josh ([@starbuxman](https://twitter.com/starbuxman)) has (officially) been a Spr
 <!-- STOP:PODCASTS -->
 
 ## Screencast
+
+I run a screencast   [called Spring Tips](http://bit.ly/spring-tips-playlist). It's also [on Twitter (@SpringTipsLive)](http://twitter.com/SpringTipsLive). Here are the episodes.
+
 <!-- START:SCREENCASTS-->
 
 * [Wavefront]((2020-04-29T00:00:00+00:00) https://www.youtube.com/watch?v=R8RAgTJvbEc) 
