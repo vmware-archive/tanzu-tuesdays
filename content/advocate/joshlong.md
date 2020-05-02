@@ -21,9 +21,9 @@ I've done a lot of different talks, but you might be interested in the following
 
 * [Getting Started with Spring Boot](https://www.youtube.com/watch?time_continue=1&v=sbPSjI4tt10&feature=emb_title) This older talk looks at how to get started with Spring Boot. 
 * [Cloud Native Java](https://www.youtube.com/watch?v=ZyK5QrKCbwM&t=4s). This older talk looks at using Spring Cloud to build microservices. 
-*  This is a longer look at reactive programming with Spring, [_Reactive Spring_](https://www.youtube.com/watch?v=x53FzaHHjLk), that was filmed at the first WAES Tech Event in the Netherlands. 
+* This is a longer look at reactive programming with Spring, [_Reactive Spring_](https://www.youtube.com/watch?v=x53FzaHHjLk), that was filmed at the first WAES Tech Event in the Netherlands. 
 * A more up-to-date, but shorter, look at Reactive programming with Spring called [The Reactive Revolution](https://www.youtube.com/watch?v=93_3CxCl_eI), this one from the YOW! conference circuit in various cities in Australia 
-
+* I look at test-driven development and testing in general with [this video from Devoxx 2019](https://www.youtube.com/watch?v=wAYt4Z4SF7g&t=3s)
 
 ## Podcast  
 
