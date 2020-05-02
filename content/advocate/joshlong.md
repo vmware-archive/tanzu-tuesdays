@@ -25,6 +25,15 @@ I've done a lot of different talks, but you might be interested in the following
 * A more up-to-date, but shorter, look at Reactive programming with Spring called [The Reactive Revolution](https://www.youtube.com/watch?v=93_3CxCl_eI), this one from the YOW! conference circuit in various cities in Australia 
 * I look at test-driven development and testing in general with [this video from Devoxx 2019](https://www.youtube.com/watch?v=wAYt4Z4SF7g&t=3s)
 
+## Livelessons
+
+I've done a number of [_Livelessons_](http://joshlong.com/livelessons.html) training videos you might be interested in over on Safari.
+
+## Books 
+
+I've written a few books including O'Reilly's [_Cloud Native Java_](http://CloudNativeJava.io) and [_Reactive Spring_](http://ReactiveSpring.io).
+
+
 ## Podcast  
 
 I run a podcast [called _A Bootiful Podcast_](http://bootifulpodcast.fm). It's also [on Twitter (@BootifulPodcast)](http://twitter.com/BootifulPodcast). Here are the episodes.
