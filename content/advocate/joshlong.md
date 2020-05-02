@@ -31,7 +31,7 @@ I've done a number of [_Livelessons_](http://joshlong.com/livelessons.html) trai
 
 ## Books 
 
-I've written a few books including O'Reilly's [_Cloud Native Java_](http://CloudNativeJava.io) and [_Reactive Spring_](http://ReactiveSpring.io).
+I've written six  books including O'Reilly's [_Cloud Native Java_](http://CloudNativeJava.io) (all about getting to production faster with microservices with Spring and Cloud Foundry) and [_Reactive Spring_](http://ReactiveSpring.io).
 
 
 ## Podcast  
