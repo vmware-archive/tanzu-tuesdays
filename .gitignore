@@ -7,3 +7,6 @@
 
 ## OS Files
 .DS_Store
+
+## IDE
+.idea/
