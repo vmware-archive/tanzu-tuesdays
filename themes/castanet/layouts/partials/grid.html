@@ -1,10 +1,13 @@
-{{- partial "jumbotron.html" . }}
+<br><br>
+<!--{{- partial "jumbotron.html" . }}-->
 
 <style>.grid_episode_title > h3 {text-transform: initial;}</style>
 
 <section class="episode-list"  style="padding-left: 15px;padding-right: 15px">
 
   <div class = "col episode-list-header">
+    <h2 class = "episode-list-header">Stream</h2>
+    {{- partial "twitch.html" . }}
     <h2 class = "episode-list-header">Upcoming Tanzu Tuesdays Episodes</h2>
   </div>
 

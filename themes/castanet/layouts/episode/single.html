@@ -20,54 +20,9 @@
       </div>
     </div>
   {{ else }}
-
-  {{ if isset .Params "episode_banner" }}
-    {{ if ne .Params.episode_banner "" }}
-      <div class = "row">
-      <div class = "col">
-        <img src="{{ .Params.episode_banner | absURL }}" class="img-fluid episode_image"/>
-      </div>
-      </div>
-      <div class = "row">
-      <div class = "col">
-        {{ .Description | markdownify }}
-      </div>
-      </div>
-    {{ end }}
-  {{ else }}
-    <!-- begin square row -->
-    {{- if isset .Params "episode_image" -}}
-      {{- if ne .Params.episode_image "" -}}
-        <div class="row">
-          <div class="col-md-3">
-            <img src="{{ .Params.episode_image | absURL }}" class="img-fluid episode_image"/>
-          </div>
-          <div class="col-md-8">
-            {{ .Description | markdownify }}
-          </div>
-        </div>
-      {{- end -}}
-      {{- else -}}
-      <div class="row">
-        <div class="col">
-          {{ .Description | markdownify }}
-        </div>
-      </div>
-      {{- end -}}
-    {{ end }}
-    <!-- end square row -->
-    {{ end }}
-    {{ end }}
-    {{- with .Params.podcast_file -}}
-      <div class="row">
-        <div class="col-md-12 player_row">
-
-        <audio id="player2" style="width: 100%" controls preload="none">
-          <source src="{{ $.Site.Params.media_prefix }}{{ . }}" type="audio/mp3">
-          </audio>
-        </div>
-      </div>
-    {{- end -}}
+  {{- partial "twitch.html" . }}
+  {{ end }}
+  {{ end }}
 <br><br>
   <div class="row">
     <div class="col">
