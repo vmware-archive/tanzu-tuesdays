@@ -8,13 +8,13 @@ Date = "2020-05-05"
 PublishDate = "2020-04-01"
 episode = "0005"
 # appears on episode list page
-episode_image = "episode/0005/episode.jpg"
+episode_image = "episode/0005/youtube.jpg"
 # appears on episode page if no youtube link
-episode_banner = "episode/0005/episode.jpg"
+episode_banner = "episode/0005/youtube.jpg"
 explicit = "no"
 images = ["episode/0005/episode.jpg"]
 title = "Let's build a Helm Chart with Paul Czarkowski"
-youtube = ""
+youtube = "9oqbpaeCWN4"
 truncate = ""
 twitch = "makejarnotwar"
 Draft = false
