@@ -7,28 +7,29 @@
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <meta name="description" content="Writing Spring Boot Tests In a Reactive Kotlin Environment.">
+  <meta name="description" content="Tanzu Tuesdays streams Live on Twitch every Tuesday at 1 PM PT.">
+  
 
 <meta name="generator" content="Hugo 0.56.3" />
 
-<meta property="og:title" content="Bootiful Reactive Testing With Mario Gray" />
-<meta name="twitter:title" content="Bootiful Reactive Testing with Mario Gray"/>
-<meta itemprop="name" content="Bootiful Reactive Testing with Mario Gray">
-<meta property="article:modified_time" content="2021-05-12 00:00:00 &#43;0000 UTC" /><meta property="og:description" content="Writing Spring Boot Tests In a Reactive Kotlin Environment." />
-    <meta name="twitter:description" content="Writing Spring Boot Tests In a Reactive Kotlin Environment." />
-    <meta itemprop="description" content="Writing Spring Boot Tests In a Reactive Kotlin Environment.">
+<meta property="og:title" content="A Deep Dive Into Creating Production Ready Containers" />
+<meta name="twitter:title" content="A Deep Dive Into Creating Production Ready Containers"/>
+<meta itemprop="name" content="A Deep Dive Into Creating Production Ready Containers">
+<meta property="article:modified_time" content="2020-05-19 00:00:00 &#43;0000 UTC" /><meta property="og:description" content="As developers, we’ve become adept at packaging our applications, whether on our local machines or in a CI/CD toolchain, relying on mature tools like Maven, Gradle, npm, pip, Composer, and others. But as Kubernetes becomes the runtime platform of choice, packaging our apps is not quite enough. We must now package all of the dependencies as well, including any middleware, runtime, even the OS, into images - the new unit of deployment." />
+    <meta name="twitter:description" content="As developers, we’ve become adept at packaging our applications, whether on our local machines or in a CI/CD toolchain, relying on mature tools like Maven, Gradle, npm, pip, Composer, and others. But as Kubernetes becomes the runtime platform of choice, packaging our apps is not quite enough. We must now package all of the dependencies as well, including any middleware, runtime, even the OS, into images - the new unit of deployment." />
+    <meta itemprop="description" content="As developers, we’ve become adept at packaging our applications, whether on our local machines or in a CI/CD toolchain, relying on mature tools like Maven, Gradle, npm, pip, Composer, and others. But as Kubernetes becomes the runtime platform of choice, packaging our apps is not quite enough. We must now package all of the dependencies as well, including any middleware, runtime, even the OS, into images - the new unit of deployment.">
 
 
 <meta property="og:type" content="website" />
 
-<meta property="og:url" content="/episode/0006/" />
+<meta property="og:url" content="/episode/0007/" />
 
 
     <meta name="twitter:card" content="summary_large_image" />
     
-        <meta property="og:image" content="https://www.makejarnotwar.com/episode/0006/episode.jpg" />
-        <meta name="twitter:image" content="https://www.makejarnotwar.com/episode/0006/episode.jpg"/>
-        <meta itemprop="image" content="https://www.makejarnotwar.com/episode/0006/episode.jpg" />
+        <meta property="og:image" content="https://www.makejarnotwar.com/episode/0007/episode.jpg" />
+        <meta name="twitter:image" content="https://www.makejarnotwar.com/episode/0007/episode.jpg"/>
+        <meta itemprop="image" content="https://www.makejarnotwar.com/episode/0007/episode.jpg" />
     
 
 
@@ -40,10 +41,10 @@
 <title>
 
 
-     Bootiful Reactive Testing with Mario Gray 
+     A Deep Dive Into Creating Production Ready Containers 
 
 </title>
-<link rel="canonical" href="https://www.makejarnotwar.com/episode/0006/">
+<link rel="canonical" href="https://www.makejarnotwar.com/episode/0007/">
 
 <link rel="icon" href="icons/favicon.ico">
 
@@ -155,8 +156,8 @@
   
   <div class="row">
     <div class="col">
-      <h1>Bootiful Reactive Testing With Mario Gray</h1>
-<h2><a href="https://twitch.tv/makejarnotwar">Streaming on <i class="fab fa-twitch"></i></a> at 1 PM PT on Wednesday, May 12, 2021</h2>
+      <h1>A Deep Dive Into Creating Production Ready Containers</h1>
+<h2><a href="https://twitch.tv/makejarnotwar">Streaming on <i class="fab fa-twitch"></i></a> at 1 PM PT on Tuesday, May 19, 2020</h2>
 
 
     </div>
@@ -179,7 +180,7 @@
 <br><br>
   <div class="row">
     <div class="col">
-      <p><strong>Join Us</strong> for an exploration of testing a reactive Spring Boot 2.x application. Test driven development gives us the confidence necessary to improve our code faster, safely. But how do you test components and services, as well as integrations across distributed systems, while maintaining fast feedback loops, and how do you do all of this within the context of reactive Java? In this talk, we&rsquo;ll look at how to test imperative components, reactive data flows, and mocks. We’ll examine how to take advantage of test slices, and how to test web applications. We&rsquo;ll look at how to ensure that API producers and consumers work well together using consumer driven contract testing without sacrificing the testing pyramid for end-to-end integration tests. And we’ll do it all within the context of reactive programming, in Kotlin.</p>
+      <p>As developers, we’ve become adept at packaging our applications, whether on our local machines or in a CI/CD toolchain, relying on mature tools like Maven, Gradle, npm, pip, Composer, and others. But as Kubernetes becomes the runtime platform of choice, packaging our apps is not quite enough. We must now package all of the dependencies as well, including any middleware, runtime, even the OS, into images - the new unit of deployment. What are some of the ways we can tackle this challenge? What are the advantages of one over the other? In this talk we’ll cover a few different approaches for building images: Dockerfile, Jib, and Paketo. By the end of this session, you’ll understand some of the challenges and considerations and be well positioned to start building images easily and maintain them over time.</p>
 
     </div>
   </div>
@@ -192,14 +193,12 @@
         </div>
             
               <div class="row person_row">
-                  <div class="col-md-3"><img alt="Mario Gray" src="https://www.makejarnotwar.com/img/advocate/mgray.png" class="img-fluid" width="250px"></div>
+                  <div class="col-md-3"><img alt="Cora Iberkleid" src="https://www.makejarnotwar.com/img/advocate/cora.jpg" class="img-fluid" width="250px"></div>
                   <div class="col-md-8">
-                    <h2><a href = "https://www.makejarnotwar.com/advocate/mario">Mario Gray</a></h2>
-                    <p>Mr. Gray is a Principal Technologist at VMWare with over 20 years of experience in software development, software architecture. He is co-author of Apress’s Pro Spring Integration. He’s helped organizations large and small build service-based architectures in a number of different runtimes and platforms over the decades, but adopting Spring in 2004, and using it whenever possible since, was a no-brainer that culminated in joining the Spring team in 2017. As a Spring Developer Advocate, Mario loves to engage and inspire developers and businesses in the Pivotal ecosystem.</p><a href="https://www.sudoinit5.com">
-                        <i class="fas fa-home fa-2x"></i>
-                      </a><a href="https://twitter.com/@mariogray">
+                    <h2><a href = "https://www.makejarnotwar.com/advocate/cora">Cora Iberkleid</a></h2>
+                    <p>Cora Iberkleid is part Developer Advocate, part Advisory Solutions Engineer at VMware, helping developers and enterprises navigate and adopt modern practices and technologies including Spring, Cloud Foundry, Kubernetes, Tanzu, and modern CI/CD.</p><a href="https://twitter.com/ciberkleid">
                         <i class="fab fa-twitter-square fa-2x"></i>
-                      </a><a href="https://github.com/marios-code-path">
+                      </a><a href="https://github.com/ciberkleid">
                         <i class="fab fa-github-square fa-2x"></i>
                       </a></div>
                   </div>
@@ -272,18 +271,18 @@
             <ul class="pagination">
               
                 <li class="page-item">
-                  <a href="https://www.makejarnotwar.com/episode/0007/" class="page-link">
+                  <a href="https://www.makejarnotwar.com/episode/0005/" class="page-link">
                     <span aria-hidden="true">&larr;</span>
                     Previous</a>
                 </li>
                 
               
-                <li class="page-item disabled">
-                  <a href="#" class="page-link">Next
+                <li class="page-item">
+                  <a href="https://www.makejarnotwar.com/episode/0006/" class="page-link">Next
                     <span aria-hidden="true">&rarr;</span>
                   </a>
                 </li>
-              
+                
             </ul>
           </nav>
         </div>
@@ -298,7 +297,7 @@
     <ul class="nav navbar-nav navbar-right">
       
         <li>
-          <p class = "footer_copyright"><a href="https://github.com/vmware-tanzu/tanzu-tuesdays/edit/master/content/episode/0006/index.md">Edit Me</a></p>
+          <p class = "footer_copyright"><a href="https://github.com/vmware-tanzu/tanzu-tuesdays/edit/master/content/episode/0007/index.md">Edit Me</a></p>
         </li>
       
       
@@ -328,8 +327,8 @@
         label: "Tweet",             
         logo: "fab fa-twitter",
         
-        url: "https:\/\/www.makejarnotwar.com\/episode\/0006\/",
-        text: "Bootiful Reactive Testing With Mario Gray"
+        url: "https:\/\/www.makejarnotwar.com\/episode\/0007\/",
+        text: "A Deep Dive Into Creating Production Ready Containers"
       },
       {
         share: "linkedin",

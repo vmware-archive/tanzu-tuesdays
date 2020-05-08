@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>A Deep Dive Into Creating Production Ready Containers</title>
+      <link>https://www.makejarnotwar.com/episode/0007/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.makejarnotwar.com/episode/0007/</guid>
+      <description>As developers, we’ve become adept at packaging our applications, whether on our local machines or in a CI/CD toolchain, relying on mature tools like Maven, Gradle, npm, pip, Composer, and others. But as Kubernetes becomes the runtime platform of choice, packaging our apps is not quite enough. We must now package all of the dependencies as well, including any middleware, runtime, even the OS, into images - the new unit of deployment.</description>
+    </item>
+    
+    <item>
       <title>Let&#39;s build a Helm Chart with Paul Czarkowski</title>
       <link>https://www.makejarnotwar.com/episode/0005/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
