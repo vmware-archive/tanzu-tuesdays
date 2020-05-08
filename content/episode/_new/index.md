@@ -4,7 +4,7 @@ aliases = ["/0000"]
 author = "paulczar"
 hosts = ["bob","tiffany","paulczar"]
 guests = []
-Date = "2021-04-07"
+Date = "2020-04-07"
 PublishDate = "2020-04-01"
 episode = "0001"
 # 320x180 for image / banner
