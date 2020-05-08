@@ -6,27 +6,36 @@
     <description>Recent content on VMware Tanzu - Developer Advocates</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.makejarnotwar.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Bootiful Reactive Testing with Mario Gray</title>
-      <link>https://www.makejarnotwar.com/episode/0006/</link>
-      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      <title>Coming Soon! With Tiffany Jernigan</title>
+      <link>https://www.makejarnotwar.com/episode/0007/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.makejarnotwar.com/episode/0006/</guid>
-      <description>Join Us for an exploration of testing a reactive Spring Boot 2.x application. Test driven development gives us the confidence necessary to improve our code faster, safely. But how do you test components and services, as well as integrations across distributed systems, while maintaining fast feedback loops, and how do you do all of this within the context of reactive Java? In this talk, we&amp;rsquo;ll look at how to test imperative components, reactive data flows, and mocks.</description>
+      <guid>https://www.makejarnotwar.com/episode/0007/</guid>
+      <description>Stay tuned.</description>
     </item>
     
     <item>
-      <title>A Deep Dive Into Creating Production Ready Containers</title>
-      <link>https://www.makejarnotwar.com/episode/0007/</link>
+      <title>Creating Production Ready Containers With Cora Iberkleid</title>
+      <link>https://www.makejarnotwar.com/episode/0008/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.makejarnotwar.com/episode/0007/</guid>
+      <guid>https://www.makejarnotwar.com/episode/0008/</guid>
       <description>As developers, we’ve become adept at packaging our applications, whether on our local machines or in a CI/CD toolchain, relying on mature tools like Maven, Gradle, npm, pip, Composer, and others. But as Kubernetes becomes the runtime platform of choice, packaging our apps is not quite enough. We must now package all of the dependencies as well, including any middleware, runtime, even the OS, into images - the new unit of deployment.</description>
+    </item>
+    
+    <item>
+      <title>Bootiful Reactive Testing with Mario Gray</title>
+      <link>https://www.makejarnotwar.com/episode/0006/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.makejarnotwar.com/episode/0006/</guid>
+      <description>Join Us for an exploration of testing a reactive Spring Boot 2.x application. Test driven development gives us the confidence necessary to improve our code faster, safely. But how do you test components and services, as well as integrations across distributed systems, while maintaining fast feedback loops, and how do you do all of this within the context of reactive Java? In this talk, we&amp;rsquo;ll look at how to test imperative components, reactive data flows, and mocks.</description>
     </item>
     
     <item>
