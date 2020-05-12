@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital Transformation on VMware Tanzu - Developer Advocates</title>
+    <link>https://www.makejarnotwar.com/tags/digital-transformation/</link>
+    <description>Recent content in Digital Transformation on VMware Tanzu - Developer Advocates</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://www.makejarnotwar.com/tags/digital-transformation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Michael Coté</title>
+      <link>https://www.makejarnotwar.com/advocate/cote/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.makejarnotwar.com/advocate/cote/</guid>
+      <description>&lt;p&gt;Michael Coté focuses studies how large organizations get better at building software to run better and grow their business. His books Monolithic Transformation and The Business Bottleneck cover this topic. He’s been an industry analyst at RedMonk and 451 Research, done corporate strategy and M&amp;amp;A, and was a programmer. He also co-hosts several podcasts, including Software Defined Talk. Cf. cote.io, and is @cote in Twitter. Texas Forever!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

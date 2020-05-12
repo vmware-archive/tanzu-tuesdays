@@ -124,6 +124,11 @@
   </url>
   
   <url>
+    <loc>https://www.makejarnotwar.com/tags/digital-transformation/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.makejarnotwar.com/tags/domain-driven-design/</loc>
     <priority>0</priority>
   </url>
@@ -157,6 +162,10 @@
   
   <url>
     <loc>https://www.makejarnotwar.com/advocate/mheckler/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.makejarnotwar.com/advocate/cote/</loc>
   </url>
   
   <url>
