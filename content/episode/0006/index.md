@@ -10,12 +10,12 @@ episode = "0006"
 # 320x180 for image / banner
 # once streamed, replace with youtube from below command
 # wget -O episode.jpg https://img.youtube.com/vi/<youtube-id>/mqdefault.jpg
-episode_image = "episode/0006/episode.jpg"
-episode_banner = "episode/0006/episode.jpg"
+episode_image = "episode/0006/youtube.jpg"
+episode_banner = "episode/0006/youtube.jpg"
 explicit = "no"
-images = ["episode/0006/episode.jpg"]
+images = ["episode/0006/youtube.jpg"]
 title = "Bootiful Reactive Testing with Mario Gray"
-youtube = ""
+youtube = "Yudpctm7g4o"
 truncate = ""
 twitch = "makejarnotwar"
 

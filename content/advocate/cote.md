@@ -15,16 +15,15 @@ Michael Coté focuses studies how large organizations get better at building sof
 <!--more-->
 
 ## Highlights
-
+<br><br>
 ### Modernize your business
 
 {{<youtube ZOstvragO2M>}}
-
-{{< slideshare id="230546348" >}}
-
-### Creating a DevOps culture, whatever that means
-
-* [slides](https://noti.st/cote/KPk3sa/creating-a-devops-culture-whatever-that-means#s8r8VOc)
-
+<br><br>
 ### Rethinking enterprise architecture for DevOps, Agile, and cloud native organizations
+<br><br>
 {{<youtube 2UquXJsbr9M>}}
+<br><br>
+### Creating a DevOps culture, whatever that means
+<br><br>
+* [slides](https://noti.st/cote/KPk3sa/creating-a-devops-culture-whatever-that-means#s8r8VOc)
