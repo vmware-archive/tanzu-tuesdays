@@ -13,19 +13,19 @@
     
     <item>
       <title>Coming Soon! With Tiffany Jernigan</title>
-      <link>https://www.makejarnotwar.com/episode/0007/</link>
+      <link>https://www.makejarnotwar.com/episode/0008/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.makejarnotwar.com/episode/0007/</guid>
+      <guid>https://www.makejarnotwar.com/episode/0008/</guid>
       <description>Stay tuned.</description>
     </item>
     
     <item>
       <title>Creating Production Ready Containers With Cora Iberkleid</title>
-      <link>https://www.makejarnotwar.com/episode/0008/</link>
+      <link>https://www.makejarnotwar.com/episode/0007/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.makejarnotwar.com/episode/0008/</guid>
+      <guid>https://www.makejarnotwar.com/episode/0007/</guid>
       <description>As developers, we’ve become adept at packaging our applications, whether on our local machines or in a CI/CD toolchain, relying on mature tools like Maven, Gradle, npm, pip, Composer, and others. But as Kubernetes becomes the runtime platform of choice, packaging our apps is not quite enough. We must now package all of the dependencies as well, including any middleware, runtime, even the OS, into images - the new unit of deployment.</description>
     </item>
     
