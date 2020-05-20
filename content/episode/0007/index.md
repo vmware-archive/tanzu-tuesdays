@@ -9,13 +9,13 @@ PublishDate = "2020-04-01"
 episode = "0007"
 # 320x180 for image / banner
 # once streamed, replace with youtube from below command
-# wget -O episode.jpg https://img.youtube.com/vi/<youtube-id>/mqdefault.jpg
-episode_image = "episode/0007/episode.jpg"
-episode_banner = "episode/0007/episode.jpg"
+# wget -O content/episode/0007/youtube.jpg https://img.youtube.com/vi/K6O1iQf9eW4/mqdefault.jpg
+episode_image = "episode/0007/youtube.jpg"
+episode_banner = "episode/0007/youtube.jpg"
 explicit = "no"
-images = ["episode/0007/episode.jpg"]
+images = ["episode/0007/youtube.jpg"]
 title = "Creating Production Ready Containers With Cora Iberkleid"
-youtube = ""
+youtube = "K6O1iQf9eW4"
 truncate = ""
 twitch = "makejarnotwar"
 Draft = false
