@@ -1,5 +1,5 @@
 +++
-Description = "Coming Soon!"
+Description = "Cloud Foundry for Kubernetes"
 aliases = ["/0008"]
 author = "paulczar"
 hosts = ["bob","paulczar"]
@@ -14,7 +14,7 @@ episode_image = "episode/0008/episode.jpg"
 episode_banner = "episode/0008/episode.jpg"
 explicit = "no"
 images = ["episode/0008/episode.jpg"]
-title = "Coming Soon! With Tiffany Jernigan"
+title = "Cloud Foundry for Kubernetes with Tiffany Jernigan"
 youtube = ""
 truncate = ""
 twitch = "makejarnotwar"
