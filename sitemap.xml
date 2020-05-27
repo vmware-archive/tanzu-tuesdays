@@ -3,20 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.makejarnotwar.com/episode/0008/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+    <loc>https://www.makejarnotwar.com/episode/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.makejarnotwar.com/episode/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://www.makejarnotwar.com/episode/0009/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.makejarnotwar.com/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.makejarnotwar.com/episode/0008/</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -139,6 +144,11 @@
   </url>
   
   <url>
+    <loc>https://www.makejarnotwar.com/guest/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.makejarnotwar.com/advocate/jakub/</loc>
   </url>
   
@@ -209,6 +219,10 @@
   <url>
     <loc>https://www.makejarnotwar.com/tags/services/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.makejarnotwar.com/guest/spencer/</loc>
   </url>
   
   <url>

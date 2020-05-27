@@ -6,10 +6,20 @@
     <description>Recent content on VMware Tanzu - Developer Advocates</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.makejarnotwar.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reactive Architectures with Spencer Gibbs</title>
+      <link>https://www.makejarnotwar.com/episode/0009/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.makejarnotwar.com/episode/0009/</guid>
+      <description>As more applications are experiencing the benefits of using a reactive programming model, one of the biggest problems they experience is the mismatch between Reactive Stream back pressure and current networking protocols. The RSocket protocol enables Reactive Streams back pressure to be transmitted across a network link connecting reactive flows in multiple applications to directly affect one another in a positive way.
+In this talk, we will provide an overview of the key differences and benefits of RSocket-based networking and introduce the RSocket Routing project and the integration with Spring.</description>
+    </item>
     
     <item>
       <title>Cloud Foundry for Kubernetes with Tiffany Jernigan</title>
@@ -193,6 +203,15 @@ Note: This is not set in stone, if you have a better way to do this, we&amp;rsqu
       
       <guid>https://www.makejarnotwar.com/advocate/paulczar/</guid>
       <description>&lt;p&gt;Paul Czarkowski is a long time practitioner of the dark arts of Devops. Hailing from Australia he moved to Austin Texas to help build and run one of the largest and most successful online games. Now at VMWare, Paul works to improve the Operator experience by taking Cloud Native software development concepts and applying them to Operations to create platforms that reduce toil and improve software delivery.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Spencer Gibb</title>
+      <link>https://www.makejarnotwar.com/guest/spencer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.makejarnotwar.com/guest/spencer/</guid>
+      <description>Spencer is an industry veteran with experience in e-commerce platforms, government and non-profit organizations to business intelligence startups.</description>
     </item>
     
     <item>

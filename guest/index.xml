@@ -1,60 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Guests on Tanzu Tuesdays - Live Every Tuesday at 1 PM PT</title>
-    <link>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/</link>
-    <description>Recent content in Guests on Tanzu Tuesdays - Live Every Tuesday at 1 PM PT</description>
+    <title>Guests on VMware Tanzu - Developer Advocates</title>
+    <link>https://www.makejarnotwar.com/guest/</link>
+    <description>Recent content in Guests on VMware Tanzu - Developer Advocates</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://vmware-tanzu.github.io/tanzu-tuesdays/guest/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.makejarnotwar.com/guest/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Jakub Pilimon</title>
-      <link>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/jakub/</link>
+      <title>Spencer Gibb</title>
+      <link>https://www.makejarnotwar.com/guest/spencer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/jakub/</guid>
-      <description>Jakub is a Developer Advocate at VMware, blogger, programmer, and trainer. He loves to tackle complex enterprises with Domain-Driven Design, Test-Driven Development and Spring. Architecture is a main area of interest, too. When he doesn&amp;rsquo;t program, he rides motorbikes, skis or practices kitesurfing.
-He writes a DZone MVB awarded blog and his pet projects can be found at https://github.com/ddd-by-examples.</description>
-    </item>
-    
-    <item>
-      <title>Josh Long</title>
-      <link>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/joshlong/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/joshlong/</guid>
-      <description>Josh (@starbuxman) has (officially) been a Spring Developer Advocate since 2010. Josh is a Java Champion, author of 6 books (including O’Reilly’s Cloud Native Java: Designing Resilient Systems with Spring Boot and the upcoming Reactive Spring) and numerous best-selling video trainings (including Building Microservices with Spring Boot Livelessons with Spring Boot co-founder Phil Webb), and an open-source contributor (Spring Boot, Spring Integration, Spring Cloud, Activiti and Vaadin), a podcaster (A Bootiful Podcast) and a screencaster.</description>
-    </item>
-    
-    <item>
-      <title>Mark Heckler</title>
-      <link>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/mheckler/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/mheckler/</guid>
-      <description>Mark Heckler is a software developer &amp;amp; Spring Developer Advocate at VMware, conference speaker, published author, &amp;amp; Java Champion focusing upon developing innovative production-ready software at velocity for the cloud.
-He has worked with key players in the manufacturing, retail, medical, scientific, telecom, and financial industries and various public sector organizations to develop and deliver critical capabilities on time and on budget. Mark is an open source contributor and author/curator of a developer-focused blog and an occasionally interesting Twitter account.</description>
-    </item>
-    
-    <item>
-      <title>Nathaniel T. Schutta</title>
-      <link>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/nate/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/nate/</guid>
-      <description>Nathaniel T. Schutta is a software architect focused on cloud computing and building usable applications. A proponent of polyglot programming, Nate has written multiple books and appeared in various videos. Nate is a seasoned speaker regularly presenting at conferences worldwide, No Fluff Just Stuff symposia, meetups, universities, and user groups. In addition to his day job, Nate is an adjunct professor at the University of Minnesota where he teaches students to embrace (and evaluate) technical change.</description>
-    </item>
-    
-    <item>
-      <title>Paul Czarkowski</title>
-      <link>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/paulczar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vmware-tanzu.github.io/tanzu-tuesdays/guest/paulczar/</guid>
-      <description>Paul Czarkowski is a long time practitioner of the dark arts of Devops. Hailing from Australia he moved to Austin Texas to help build and run one of the largest and most successful online games. Now at VMWare, Paul works to improve the Operator experience by taking Cloud Native software development concepts and applying them to Operations to create platforms that reduce toil and improve software delivery.</description>
+      <guid>https://www.makejarnotwar.com/guest/spencer/</guid>
+      <description>Spencer is an industry veteran with experience in e-commerce platforms, government and non-profit organizations to business intelligence startups.</description>
     </item>
     
   </channel>
