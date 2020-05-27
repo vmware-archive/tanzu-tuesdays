@@ -18,7 +18,7 @@ title = "Reactive Architectures with Spencer Gibbs"
 youtube = ""
 truncate = ""
 twitch = "makejarnotwar"
-Draft = true
+Draft = false
 
 +++
 
