@@ -6,10 +6,20 @@
     <description>Recent content on VMware Tanzu - Developer Advocates</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.makejarnotwar.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Spring Experiments with Dr. David Syer</title>
+      <link>https://www.makejarnotwar.com/episode/0010/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.makejarnotwar.com/episode/0010/</guid>
+      <description>More often than not Spring moves forwards by reacting to demand, but sometimes it also tries to move first into a new area, anticipating demand in the community. In both cases, though, there are usually experimental stages, sometimes for quite long periods.
+This has always been the case, but the Spring team has recently created a special place for those experiments to happen, and that gives us a chance to spy on what is going on.</description>
+    </item>
     
     <item>
       <title>Reactive Architectures with Spencer Gibbs</title>
@@ -134,6 +144,15 @@ Note: This is not set in stone, if you have a better way to do this, we&amp;rsqu
       
       <guid>https://www.makejarnotwar.com/advocate/cora/</guid>
       <description>&lt;p&gt;Cora Iberkleid is part Developer Advocate, part Advisory Solutions Engineer at VMware, helping developers and enterprises navigate and adopt modern practices and technologies including Spring, Cloud Foundry, Kubernetes, Tanzu, and modern CI/CD.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dr. Dave Syer</title>
+      <link>https://www.makejarnotwar.com/guest/syer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.makejarnotwar.com/guest/syer/</guid>
+      <description>Founder of Spring Cloud, Spring Boot, Spring Batch, lead of Spring Security OAuth, and an active contributor to Spring Integration, Spring Framework, Spring AMQP, Spring Security. Experienced, delivery-focused architect and development manager. Has designed and built successful enterprise software solutions using Spring, and implemented them in major institutions worldwide.</description>
     </item>
     
     <item>
