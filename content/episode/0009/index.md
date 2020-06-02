@@ -4,7 +4,7 @@ aliases = ["/0009"]
 author = "paulczar"
 hosts = ["bob","paulczar"]
 guests = ["spencer"]
-Date = "2020-06-02"
+Date = "2020-06-09"
 PublishDate = "2020-04-01"
 episode = "0009"
 # 320x180 for image / banner
@@ -14,7 +14,7 @@ episode_image = "episode/0009/episode.jpg"
 episode_banner = "episode/0009/episode.jpg"
 explicit = "no"
 images = ["episode/0009/episode.jpg"]
-title = "Reactive Architectures with Spencer Gibbs"
+title = "Reactive Architectures with Spencer Gibb"
 youtube = ""
 truncate = ""
 twitch = "makejarnotwar"
