@@ -6,29 +6,19 @@
     <description>Recent content on VMware Tanzu - Developer Advocates</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.makejarnotwar.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Spring Experiments with Dr. David Syer</title>
-      <link>https://www.makejarnotwar.com/episode/0010/</link>
-      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.makejarnotwar.com/episode/0010/</guid>
-      <description>More often than not Spring moves forwards by reacting to demand, but sometimes it also tries to move first into a new area, anticipating demand in the community. In both cases, though, there are usually experimental stages, sometimes for quite long periods.
-This has always been the case, but the Spring team has recently created a special place for those experiments to happen, and that gives us a chance to spy on what is going on.</description>
-    </item>
-    
-    <item>
-      <title>Reactive Architectures with Spencer Gibb</title>
+      <title>Postponed - #blacklivesmatter</title>
       <link>https://www.makejarnotwar.com/episode/0009/</link>
-      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.makejarnotwar.com/episode/0009/</guid>
-      <description>As more applications are experiencing the benefits of using a reactive programming model, one of the biggest problems they experience is the mismatch between Reactive Stream back pressure and current networking protocols. The RSocket protocol enables Reactive Streams back pressure to be transmitted across a network link connecting reactive flows in multiple applications to directly affect one another in a positive way.
-In this talk, we will provide an overview of the key differences and benefits of RSocket-based networking and introduce the RSocket Routing project and the integration with Spring.</description>
+      <description>This episode is postponed due to current events in the U.S.A.
+#blacklivesmatter</description>
     </item>
     
     <item>
