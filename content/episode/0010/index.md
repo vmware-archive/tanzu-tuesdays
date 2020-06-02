@@ -1,10 +1,10 @@
 +++
-Description = "In The Lab: Spring Experiments"
+Description = "Reactive Architectures with RSocket & Spring"
 aliases = ["/0010"]
 author = "paulczar"
 hosts = ["bob","paulczar"]
-guests = ["syer"]
-Date = "2020-06-16"
+guests = ["spencer"]
+Date = "2020-06-09"
 PublishDate = "2020-04-01"
 episode = "0010"
 # 320x180 for image / banner
@@ -14,14 +14,14 @@ episode_image = "episode/0010/episode.jpg"
 episode_banner = "episode/0010/episode.jpg"
 explicit = "no"
 images = ["episode/0010/episode.jpg"]
-title = "Spring Experiments with Dr. David Syer"
+title = "Reactive Architectures with Spencer Gibb"
 youtube = ""
 truncate = ""
 twitch = "makejarnotwar"
-Draft = false
+Draft = true
 
 +++
 
-More often than not Spring moves forwards by reacting to demand, but sometimes it also tries to move first into a new area, anticipating demand in the community. In both cases, though, there are usually experimental stages, sometimes for quite long periods.
+As more applications are experiencing the benefits of using a reactive programming model, one of the biggest problems they experience is the mismatch between Reactive Stream back pressure and current networking protocols. The RSocket protocol enables Reactive Streams back pressure to be transmitted across a network link connecting reactive flows in multiple applications to directly affect one another in a positive way.
 
-This has always been the case, but the Spring team has recently created a special place for those experiments to happen, and that gives us a chance to spy on what is going on. This talk will be taking a look at some of the current experiments, as well as reviewing some older ones, successful and unsuccessful.
+In this talk, we will provide an overview of the key differences and benefits of RSocket-based networking and introduce the RSocket Routing project and the integration with Spring. We will discuss the benefits of this integration, including the impact on speed, scalability, security, and more. We will also discuss use cases, and show how you can leverage this new technology in your applications.
