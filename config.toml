@@ -1,4 +1,4 @@
-# baseURL = "https://www.makejarnotwar.com"
+baseURL = "https://www.makejarnotwar.com"
 languageCode = "en-us"
 title = "VMware Tanzu - Developer Advocates"
 theme = "castanet"

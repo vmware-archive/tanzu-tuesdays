@@ -18,7 +18,7 @@ title = "Spring Experiments with Dr. David Syer"
 youtube = ""
 truncate = ""
 twitch = "makejarnotwar"
-Draft = false
+Draft = true
 
 +++
 
