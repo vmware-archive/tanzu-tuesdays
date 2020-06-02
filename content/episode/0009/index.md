@@ -1,19 +1,19 @@
 +++
 Description = "Reactive Architectures with RSocket & Spring"
-aliases = ["/0009"]
+aliases = ["/0010"]
 author = "paulczar"
 hosts = ["bob","paulczar"]
 guests = ["spencer"]
 Date = "2020-06-09"
 PublishDate = "2020-04-01"
-episode = "0009"
+episode = "0010"
 # 320x180 for image / banner
 # once streamed, replace with youtube from below command
 # wget -O episode.jpg https://img.youtube.com/vi/<youtube-id>/mqdefault.jpg
-episode_image = "episode/0009/episode.jpg"
-episode_banner = "episode/0009/episode.jpg"
+episode_image = "episode/0010/episode.jpg"
+episode_banner = "episode/0010/episode.jpg"
 explicit = "no"
-images = ["episode/0009/episode.jpg"]
+images = ["episode/0010/episode.jpg"]
 title = "Reactive Architectures with Spencer Gibb"
 youtube = ""
 truncate = ""
